@@ -1,0 +1,13 @@
+C:\temp\ISPP-31\TRiZBD\LabWorks\LabWork10\CinemaDbLibrary\bin\Debug\net9.0\CinemaDbLibrary.deps.json
+C:\temp\ISPP-31\TRiZBD\LabWorks\LabWork10\CinemaDbLibrary\bin\Debug\net9.0\CinemaDbLibrary.dll
+C:\temp\ISPP-31\TRiZBD\LabWorks\LabWork10\CinemaDbLibrary\bin\Debug\net9.0\CinemaDbLibrary.pdb
+C:\temp\ISPP-31\TRiZBD\LabWorks\LabWork10\CinemaDbLibrary\obj\Debug\net9.0\CinemaDbLibrary.csproj.AssemblyReference.cache
+C:\temp\ISPP-31\TRiZBD\LabWorks\LabWork10\CinemaDbLibrary\obj\Debug\net9.0\CinemaDbLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\ISPP-31\TRiZBD\LabWorks\LabWork10\CinemaDbLibrary\obj\Debug\net9.0\CinemaDbLibrary.AssemblyInfoInputs.cache
+C:\temp\ISPP-31\TRiZBD\LabWorks\LabWork10\CinemaDbLibrary\obj\Debug\net9.0\CinemaDbLibrary.AssemblyInfo.cs
+C:\temp\ISPP-31\TRiZBD\LabWorks\LabWork10\CinemaDbLibrary\obj\Debug\net9.0\CinemaDbLibrary.csproj.CoreCompileInputs.cache
+C:\temp\ISPP-31\TRiZBD\LabWorks\LabWork10\CinemaDbLibrary\obj\Debug\net9.0\CinemaDbLibrary.sourcelink.json
+C:\temp\ISPP-31\TRiZBD\LabWorks\LabWork10\CinemaDbLibrary\obj\Debug\net9.0\CinemaDbLibrary.dll
+C:\temp\ISPP-31\TRiZBD\LabWorks\LabWork10\CinemaDbLibrary\obj\Debug\net9.0\refint\CinemaDbLibrary.dll
+C:\temp\ISPP-31\TRiZBD\LabWorks\LabWork10\CinemaDbLibrary\obj\Debug\net9.0\CinemaDbLibrary.pdb
+C:\temp\ISPP-31\TRiZBD\LabWorks\LabWork10\CinemaDbLibrary\obj\Debug\net9.0\ref\CinemaDbLibrary.dll

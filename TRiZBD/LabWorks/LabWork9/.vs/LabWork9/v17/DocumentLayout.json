@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\temp\\ISPP-31\\TRiZBD\\LabWorks\\LabWork9\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{87AD0358-5C02-457B-9035-565E0E3486F0}|LabWork9\\LabWork9.csproj|c:\\temp\\ispp-31\\trizbd\\labworks\\labwork9\\labwork9\\services\\ticketservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87AD0358-5C02-457B-9035-565E0E3486F0}|LabWork9\\LabWork9.csproj|solutionrelative:labwork9\\services\\ticketservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87AD0358-5C02-457B-9035-565E0E3486F0}|LabWork9\\LabWork9.csproj|c:\\temp\\ispp-31\\trizbd\\labworks\\labwork9\\labwork9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87AD0358-5C02-457B-9035-565E0E3486F0}|LabWork9\\LabWork9.csproj|solutionrelative:labwork9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87AD0358-5C02-457B-9035-565E0E3486F0}|LabWork9\\LabWork9.csproj|c:\\temp\\ispp-31\\trizbd\\labworks\\labwork9\\labwork9\\services\\visitorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87AD0358-5C02-457B-9035-565E0E3486F0}|LabWork9\\LabWork9.csproj|solutionrelative:labwork9\\services\\visitorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87AD0358-5C02-457B-9035-565E0E3486F0}|LabWork9\\LabWork9.csproj|c:\\temp\\ispp-31\\trizbd\\labworks\\labwork9\\labwork9\\models\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87AD0358-5C02-457B-9035-565E0E3486F0}|LabWork9\\LabWork9.csproj|solutionrelative:labwork9\\models\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87AD0358-5C02-457B-9035-565E0E3486F0}|LabWork9\\LabWork9.csproj|c:\\temp\\ispp-31\\trizbd\\labworks\\labwork9\\labwork9\\contexts\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87AD0358-5C02-457B-9035-565E0E3486F0}|LabWork9\\LabWork9.csproj|solutionrelative:labwork9\\contexts\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "VisitorService.cs",
+              "DocumentMoniker": "C:\\temp\\ISPP-31\\TRiZBD\\LabWorks\\LabWork9\\LabWork9\\Services\\VisitorService.cs",
+              "RelativeDocumentMoniker": "LabWork9\\Services\\VisitorService.cs",
+              "ToolTip": "C:\\temp\\ISPP-31\\TRiZBD\\LabWorks\\LabWork9\\LabWork9\\Services\\VisitorService.cs",
+              "RelativeToolTip": "LabWork9\\Services\\VisitorService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T09:00:24.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TicketService.cs",
+              "DocumentMoniker": "C:\\temp\\ISPP-31\\TRiZBD\\LabWorks\\LabWork9\\LabWork9\\Services\\TicketService.cs",
+              "RelativeDocumentMoniker": "LabWork9\\Services\\TicketService.cs",
+              "ToolTip": "C:\\temp\\ISPP-31\\TRiZBD\\LabWorks\\LabWork9\\LabWork9\\Services\\TicketService.cs",
+              "RelativeToolTip": "LabWork9\\Services\\TicketService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T08:59:49.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\temp\\ISPP-31\\TRiZBD\\LabWorks\\LabWork9\\LabWork9\\Contexts\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "LabWork9\\Contexts\\AppDbContext.cs",
+              "ToolTip": "C:\\temp\\ISPP-31\\TRiZBD\\LabWorks\\LabWork9\\LabWork9\\Contexts\\AppDbContext.cs",
+              "RelativeToolTip": "LabWork9\\Contexts\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T08:56:18.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\temp\\ISPP-31\\TRiZBD\\LabWorks\\LabWork9\\LabWork9\\Program.cs",
+              "RelativeDocumentMoniker": "LabWork9\\Program.cs",
+              "ToolTip": "C:\\temp\\ISPP-31\\TRiZBD\\LabWorks\\LabWork9\\LabWork9\\Program.cs",
+              "RelativeToolTip": "LabWork9\\Program.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAADwvygAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T07:20:27.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Ticket.cs",
+              "DocumentMoniker": "C:\\temp\\ISPP-31\\TRiZBD\\LabWorks\\LabWork9\\LabWork9\\Models\\Ticket.cs",
+              "RelativeDocumentMoniker": "LabWork9\\Models\\Ticket.cs",
+              "ToolTip": "C:\\temp\\ISPP-31\\TRiZBD\\LabWorks\\LabWork9\\LabWork9\\Models\\Ticket.cs",
+              "RelativeToolTip": "LabWork9\\Models\\Ticket.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T09:48:55.771Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

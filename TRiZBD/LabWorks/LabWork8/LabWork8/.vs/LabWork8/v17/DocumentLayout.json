@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\temp\\ISPP-31\\TRiZBD\\LabWorks\\LabWork8\\LabWork8\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BA798076-4866-477E-BFB4-CEC4E14E9FF7}|ConsoleApp\\ConsoleApp.csproj|c:\\temp\\ispp-31\\trizbd\\labworks\\labwork8\\labwork8\\consoleapp\\repositories\\implementations\\visitorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA798076-4866-477E-BFB4-CEC4E14E9FF7}|ConsoleApp\\ConsoleApp.csproj|solutionrelative:consoleapp\\repositories\\implementations\\visitorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA798076-4866-477E-BFB4-CEC4E14E9FF7}|ConsoleApp\\ConsoleApp.csproj|c:\\temp\\ispp-31\\trizbd\\labworks\\labwork8\\labwork8\\consoleapp\\repositories\\implementations\\genrerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA798076-4866-477E-BFB4-CEC4E14E9FF7}|ConsoleApp\\ConsoleApp.csproj|solutionrelative:consoleapp\\repositories\\implementations\\genrerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA798076-4866-477E-BFB4-CEC4E14E9FF7}|ConsoleApp\\ConsoleApp.csproj|c:\\temp\\ispp-31\\trizbd\\labworks\\labwork8\\labwork8\\consoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA798076-4866-477E-BFB4-CEC4E14E9FF7}|ConsoleApp\\ConsoleApp.csproj|solutionrelative:consoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA798076-4866-477E-BFB4-CEC4E14E9FF7}|ConsoleApp\\ConsoleApp.csproj|c:\\temp\\ispp-31\\trizbd\\labworks\\labwork8\\labwork8\\consoleapp\\models\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA798076-4866-477E-BFB4-CEC4E14E9FF7}|ConsoleApp\\ConsoleApp.csproj|solutionrelative:consoleapp\\models\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA798076-4866-477E-BFB4-CEC4E14E9FF7}|ConsoleApp\\ConsoleApp.csproj|c:\\temp\\ispp-31\\trizbd\\labworks\\labwork8\\labwork8\\consoleapp\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA798076-4866-477E-BFB4-CEC4E14E9FF7}|ConsoleApp\\ConsoleApp.csproj|solutionrelative:consoleapp\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA798076-4866-477E-BFB4-CEC4E14E9FF7}|ConsoleApp\\ConsoleApp.csproj|c:\\temp\\ispp-31\\trizbd\\labworks\\labwork8\\labwork8\\consoleapp\\databasecontexts\\databasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA798076-4866-477E-BFB4-CEC4E14E9FF7}|ConsoleApp\\ConsoleApp.csproj|solutionrelative:consoleapp\\databasecontexts\\databasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA798076-4866-477E-BFB4-CEC4E14E9FF7}|ConsoleApp\\ConsoleApp.csproj|c:\\temp\\ispp-31\\trizbd\\labworks\\labwork8\\labwork8\\consoleapp\\models\\visitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA798076-4866-477E-BFB4-CEC4E14E9FF7}|ConsoleApp\\ConsoleApp.csproj|solutionrelative:consoleapp\\models\\visitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Visitor.cs",
+              "DocumentMoniker": "C:\\temp\\ISPP-31\\TRiZBD\\LabWorks\\LabWork8\\LabWork8\\ConsoleApp\\Models\\Visitor.cs",
+              "RelativeDocumentMoniker": "ConsoleApp\\Models\\Visitor.cs",
+              "ToolTip": "C:\\temp\\ISPP-31\\TRiZBD\\LabWorks\\LabWork8\\LabWork8\\ConsoleApp\\Models\\Visitor.cs",
+              "RelativeToolTip": "ConsoleApp\\Models\\Visitor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T07:54:39.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Genre.cs",
+              "DocumentMoniker": "C:\\temp\\ISPP-31\\TRiZBD\\LabWorks\\LabWork8\\LabWork8\\ConsoleApp\\Models\\Genre.cs",
+              "RelativeDocumentMoniker": "ConsoleApp\\Models\\Genre.cs",
+              "ToolTip": "C:\\temp\\ISPP-31\\TRiZBD\\LabWorks\\LabWork8\\LabWork8\\ConsoleApp\\Models\\Genre.cs",
+              "RelativeToolTip": "ConsoleApp\\Models\\Genre.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T07:59:36.356Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\temp\\ISPP-31\\TRiZBD\\LabWorks\\LabWork8\\LabWork8\\ConsoleApp\\Repositories\\IRepository.cs",
+              "RelativeDocumentMoniker": "ConsoleApp\\Repositories\\IRepository.cs",
+              "ToolTip": "C:\\temp\\ISPP-31\\TRiZBD\\LabWorks\\LabWork8\\LabWork8\\ConsoleApp\\Repositories\\IRepository.cs",
+              "RelativeToolTip": "ConsoleApp\\Repositories\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T07:51:13.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GenreRepository.cs",
+              "DocumentMoniker": "C:\\temp\\ISPP-31\\TRiZBD\\LabWorks\\LabWork8\\LabWork8\\ConsoleApp\\Repositories\\Implementations\\GenreRepository.cs",
+              "RelativeDocumentMoniker": "ConsoleApp\\Repositories\\Implementations\\GenreRepository.cs",
+              "ToolTip": "C:\\temp\\ISPP-31\\TRiZBD\\LabWorks\\LabWork8\\LabWork8\\ConsoleApp\\Repositories\\Implementations\\GenreRepository.cs",
+              "RelativeToolTip": "ConsoleApp\\Repositories\\Implementations\\GenreRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAASwA4AAACHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T07:40:16.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "VisitorRepository.cs",
+              "DocumentMoniker": "C:\\temp\\ISPP-31\\TRiZBD\\LabWorks\\LabWork8\\LabWork8\\ConsoleApp\\Repositories\\Implementations\\VisitorRepository.cs",
+              "RelativeDocumentMoniker": "ConsoleApp\\Repositories\\Implementations\\VisitorRepository.cs",
+              "ToolTip": "C:\\temp\\ISPP-31\\TRiZBD\\LabWorks\\LabWork8\\LabWork8\\ConsoleApp\\Repositories\\Implementations\\VisitorRepository.cs",
+              "RelativeToolTip": "ConsoleApp\\Repositories\\Implementations\\VisitorRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T07:37:16.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DatabaseContext.cs",
+              "DocumentMoniker": "C:\\temp\\ISPP-31\\TRiZBD\\LabWorks\\LabWork8\\LabWork8\\ConsoleApp\\DataBaseContexts\\DatabaseContext.cs",
+              "RelativeDocumentMoniker": "ConsoleApp\\DataBaseContexts\\DatabaseContext.cs",
+              "ToolTip": "C:\\temp\\ISPP-31\\TRiZBD\\LabWorks\\LabWork8\\LabWork8\\ConsoleApp\\DataBaseContexts\\DatabaseContext.cs",
+              "RelativeToolTip": "ConsoleApp\\DataBaseContexts\\DatabaseContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T07:35:22.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\temp\\ISPP-31\\TRiZBD\\LabWorks\\LabWork8\\LabWork8\\ConsoleApp\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp\\Program.cs",
+              "ToolTip": "C:\\temp\\ISPP-31\\TRiZBD\\LabWorks\\LabWork8\\LabWork8\\ConsoleApp\\Program.cs",
+              "RelativeToolTip": "ConsoleApp\\Program.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAADIAAABsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T07:19:17.063Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

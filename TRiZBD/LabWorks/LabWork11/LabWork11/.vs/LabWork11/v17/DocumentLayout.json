@@ -1,0 +1,135 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\temp\\ISPP-31\\TRiZBD\\LabWorks\\LabWork11\\LabWork11\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BDCBE0FD-CAEE-4A5B-B7F5-37409824E55A}|WpfApp\\WpfApp.csproj|c:\\temp\\ispp-31\\trizbd\\labworks\\labwork11\\labwork11\\wpfapp\\filmwindow.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{BDCBE0FD-CAEE-4A5B-B7F5-37409824E55A}|WpfApp\\WpfApp.csproj|solutionrelative:wpfapp\\filmwindow.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDCBE0FD-CAEE-4A5B-B7F5-37409824E55A}|WpfApp\\WpfApp.csproj|c:\\temp\\ispp-31\\trizbd\\labworks\\labwork11\\labwork11\\wpfapp\\models\\film.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDCBE0FD-CAEE-4A5B-B7F5-37409824E55A}|WpfApp\\WpfApp.csproj|solutionrelative:wpfapp\\models\\film.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDCBE0FD-CAEE-4A5B-B7F5-37409824E55A}|WpfApp\\WpfApp.csproj|c:\\temp\\ispp-31\\trizbd\\labworks\\labwork11\\labwork11\\wpfapp\\contexts\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDCBE0FD-CAEE-4A5B-B7F5-37409824E55A}|WpfApp\\WpfApp.csproj|solutionrelative:wpfapp\\contexts\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDCBE0FD-CAEE-4A5B-B7F5-37409824E55A}|WpfApp\\WpfApp.csproj|c:\\temp\\ispp-31\\trizbd\\labworks\\labwork11\\labwork11\\wpfapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{BDCBE0FD-CAEE-4A5B-B7F5-37409824E55A}|WpfApp\\WpfApp.csproj|solutionrelative:wpfapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDCBE0FD-CAEE-4A5B-B7F5-37409824E55A}|WpfApp\\WpfApp.csproj|c:\\temp\\ispp-31\\trizbd\\labworks\\labwork11\\labwork11\\wpfapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDCBE0FD-CAEE-4A5B-B7F5-37409824E55A}|WpfApp\\WpfApp.csproj|solutionrelative:wpfapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDCBE0FD-CAEE-4A5B-B7F5-37409824E55A}|WpfApp\\WpfApp.csproj|c:\\temp\\ispp-31\\trizbd\\labworks\\labwork11\\labwork11\\wpfapp\\filmwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{BDCBE0FD-CAEE-4A5B-B7F5-37409824E55A}|WpfApp\\WpfApp.csproj|solutionrelative:wpfapp\\filmwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDCBE0FD-CAEE-4A5B-B7F5-37409824E55A}|WpfApp\\WpfApp.csproj|c:\\temp\\ispp-31\\trizbd\\labworks\\labwork11\\labwork11\\wpfapp\\services\\filmservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDCBE0FD-CAEE-4A5B-B7F5-37409824E55A}|WpfApp\\WpfApp.csproj|solutionrelative:wpfapp\\services\\filmservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 529,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Film.cs",
+              "DocumentMoniker": "C:\\temp\\ISPP-31\\TRiZBD\\LabWorks\\LabWork11\\LabWork11\\WpfApp\\Models\\Film.cs",
+              "RelativeDocumentMoniker": "WpfApp\\Models\\Film.cs",
+              "ToolTip": "C:\\temp\\ISPP-31\\TRiZBD\\LabWorks\\LabWork11\\LabWork11\\WpfApp\\Models\\Film.cs",
+              "RelativeToolTip": "WpfApp\\Models\\Film.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T05:36:54.342Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FilmWindow.xaml.cs",
+              "DocumentMoniker": "C:\\temp\\ISPP-31\\TRiZBD\\LabWorks\\LabWork11\\LabWork11\\WpfApp\\FilmWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WpfApp\\FilmWindow.xaml.cs",
+              "ToolTip": "C:\\temp\\ISPP-31\\TRiZBD\\LabWorks\\LabWork11\\LabWork11\\WpfApp\\FilmWindow.xaml.cs",
+              "RelativeToolTip": "WpfApp\\FilmWindow.xaml.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACsAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T11:00:08.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FilmWindow.xaml",
+              "DocumentMoniker": "C:\\temp\\ISPP-31\\TRiZBD\\LabWorks\\LabWork11\\LabWork11\\WpfApp\\FilmWindow.xaml",
+              "RelativeDocumentMoniker": "WpfApp\\FilmWindow.xaml",
+              "ToolTip": "C:\\temp\\ISPP-31\\TRiZBD\\LabWorks\\LabWork11\\LabWork11\\WpfApp\\FilmWindow.xaml",
+              "RelativeToolTip": "WpfApp\\FilmWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-15T10:49:24.121Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\temp\\ISPP-31\\TRiZBD\\LabWorks\\LabWork11\\LabWork11\\WpfApp\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WpfApp\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\temp\\ISPP-31\\TRiZBD\\LabWorks\\LabWork11\\LabWork11\\WpfApp\\MainWindow.xaml.cs",
+              "RelativeToolTip": "WpfApp\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwBsAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T09:10:48.772Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\temp\\ISPP-31\\TRiZBD\\LabWorks\\LabWork11\\LabWork11\\WpfApp\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "WpfApp\\MainWindow.xaml",
+              "ToolTip": "C:\\temp\\ISPP-31\\TRiZBD\\LabWorks\\LabWork11\\LabWork11\\WpfApp\\MainWindow.xaml",
+              "RelativeToolTip": "WpfApp\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-15T09:18:35.132Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FilmService.cs",
+              "DocumentMoniker": "C:\\temp\\ISPP-31\\TRiZBD\\LabWorks\\LabWork11\\LabWork11\\WpfApp\\Services\\FilmService.cs",
+              "RelativeDocumentMoniker": "WpfApp\\Services\\FilmService.cs",
+              "ToolTip": "C:\\temp\\ISPP-31\\TRiZBD\\LabWorks\\LabWork11\\LabWork11\\WpfApp\\Services\\FilmService.cs",
+              "RelativeToolTip": "WpfApp\\Services\\FilmService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T09:27:35.748Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\temp\\ISPP-31\\TRiZBD\\LabWorks\\LabWork11\\LabWork11\\WpfApp\\Contexts\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "WpfApp\\Contexts\\AppDbContext.cs",
+              "ToolTip": "C:\\temp\\ISPP-31\\TRiZBD\\LabWorks\\LabWork11\\LabWork11\\WpfApp\\Contexts\\AppDbContext.cs",
+              "RelativeToolTip": "WpfApp\\Contexts\\AppDbContext.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAswCUAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T09:27:56.882Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+﻿<Window x:Class="WpfApp.FilmWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp"
+        mc:Ignorable="d"
+        Title="FilmWindow" Height="450" Width="800">
+    <StackPanel>
+        <Label Content="Название фильма"/>
+        <TextBox Name="TitleTextBox" Text="{Binding Path=Title}"/>
+
+        <Label Content="Длительность фильма"/>
+        <TextBox Name="DurationTextBox" Text="{Binding Path=Title}"/>
+
+        <Label Content="Год выхода"/>
+        <TextBox Name="YearTextBox"/>
+
+        <Label Content="Возрастной рейтинг"/>
+        <ComboBox Name="AgeRatingComboBox"/>
+
+        <Label Content="Описание"/>
+        <TextBox Name="Description" TextWrapping="NoWrap" AcceptsReturn="True" VerticalScrollBarVisibility="Visible" Height="100"/>
+    </StackPanel>
+</Window>

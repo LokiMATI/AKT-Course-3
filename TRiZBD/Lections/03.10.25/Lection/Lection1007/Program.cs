@@ -26,7 +26,7 @@ var games = context.Games
     .Select(g => g.ToDto());
 
 var testGames = context.Games.ToList();
-var dtos = testGames.
+
 
 foreach (var g in games)
 {

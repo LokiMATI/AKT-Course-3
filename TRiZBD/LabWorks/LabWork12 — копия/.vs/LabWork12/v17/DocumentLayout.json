@@ -1,0 +1,168 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\temp\\ISPP-31\\TRiZBD\\LabWorks\\LabWork12 \u2014 \u043A\u043E\u043F\u0438\u044F\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FA005CEE-414F-4DC5-98A1-CD58948951EC}|ConsoleApp\\ConsoleApp.csproj|c:\\temp\\ispp-31\\trizbd\\labworks\\labwork12 \u2014 \u043A\u043E\u043F\u0438\u044F\\consoleapp\\services\\filmservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA005CEE-414F-4DC5-98A1-CD58948951EC}|ConsoleApp\\ConsoleApp.csproj|solutionrelative:consoleapp\\services\\filmservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA005CEE-414F-4DC5-98A1-CD58948951EC}|ConsoleApp\\ConsoleApp.csproj|c:\\temp\\ispp-31\\trizbd\\labworks\\labwork12 \u2014 \u043A\u043E\u043F\u0438\u044F\\consoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA005CEE-414F-4DC5-98A1-CD58948951EC}|ConsoleApp\\ConsoleApp.csproj|solutionrelative:consoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA005CEE-414F-4DC5-98A1-CD58948951EC}|ConsoleApp\\ConsoleApp.csproj|c:\\temp\\ispp-31\\trizbd\\labworks\\labwork12 \u2014 \u043A\u043E\u043F\u0438\u044F\\consoleapp\\contexts\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA005CEE-414F-4DC5-98A1-CD58948951EC}|ConsoleApp\\ConsoleApp.csproj|solutionrelative:consoleapp\\contexts\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA005CEE-414F-4DC5-98A1-CD58948951EC}|ConsoleApp\\ConsoleApp.csproj|c:\\temp\\ispp-31\\trizbd\\labworks\\labwork12 \u2014 \u043A\u043E\u043F\u0438\u044F\\consoleapp\\services\\sessionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA005CEE-414F-4DC5-98A1-CD58948951EC}|ConsoleApp\\ConsoleApp.csproj|solutionrelative:consoleapp\\services\\sessionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA005CEE-414F-4DC5-98A1-CD58948951EC}|ConsoleApp\\ConsoleApp.csproj|c:\\temp\\ispp-31\\trizbd\\labworks\\labwork12 \u2014 \u043A\u043E\u043F\u0438\u044F\\consoleapp\\models\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA005CEE-414F-4DC5-98A1-CD58948951EC}|ConsoleApp\\ConsoleApp.csproj|solutionrelative:consoleapp\\models\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA005CEE-414F-4DC5-98A1-CD58948951EC}|ConsoleApp\\ConsoleApp.csproj|c:\\temp\\ispp-31\\trizbd\\labworks\\labwork12 \u2014 \u043A\u043E\u043F\u0438\u044F\\consoleapp\\models\\film.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA005CEE-414F-4DC5-98A1-CD58948951EC}|ConsoleApp\\ConsoleApp.csproj|solutionrelative:consoleapp\\models\\film.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA005CEE-414F-4DC5-98A1-CD58948951EC}|ConsoleApp\\ConsoleApp.csproj|c:\\temp\\ispp-31\\trizbd\\labworks\\labwork12 \u2014 \u043A\u043E\u043F\u0438\u044F\\consoleapp\\models\\session.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA005CEE-414F-4DC5-98A1-CD58948951EC}|ConsoleApp\\ConsoleApp.csproj|solutionrelative:consoleapp\\models\\session.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA005CEE-414F-4DC5-98A1-CD58948951EC}|ConsoleApp\\ConsoleApp.csproj|c:\\temp\\ispp-31\\trizbd\\labworks\\labwork12 \u2014 \u043A\u043E\u043F\u0438\u044F\\consoleapp\\models\\visitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA005CEE-414F-4DC5-98A1-CD58948951EC}|ConsoleApp\\ConsoleApp.csproj|solutionrelative:consoleapp\\models\\visitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA005CEE-414F-4DC5-98A1-CD58948951EC}|ConsoleApp\\ConsoleApp.csproj|c:\\temp\\ispp-31\\trizbd\\labworks\\labwork12 \u2014 \u043A\u043E\u043F\u0438\u044F\\consoleapp\\models\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA005CEE-414F-4DC5-98A1-CD58948951EC}|ConsoleApp\\ConsoleApp.csproj|solutionrelative:consoleapp\\models\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 529,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Film.cs",
+              "DocumentMoniker": "C:\\temp\\ISPP-31\\TRiZBD\\LabWorks\\LabWork12 \u2014 \u043A\u043E\u043F\u0438\u044F\\ConsoleApp\\Models\\Film.cs",
+              "RelativeDocumentMoniker": "ConsoleApp\\Models\\Film.cs",
+              "ToolTip": "C:\\temp\\ISPP-31\\TRiZBD\\LabWorks\\LabWork12 \u2014 \u043A\u043E\u043F\u0438\u044F\\ConsoleApp\\Models\\Film.cs",
+              "RelativeToolTip": "ConsoleApp\\Models\\Film.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAA8wBsAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T10:08:20.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Session.cs",
+              "DocumentMoniker": "C:\\temp\\ISPP-31\\TRiZBD\\LabWorks\\LabWork12 \u2014 \u043A\u043E\u043F\u0438\u044F\\ConsoleApp\\Models\\Session.cs",
+              "RelativeDocumentMoniker": "ConsoleApp\\Models\\Session.cs",
+              "ToolTip": "C:\\temp\\ISPP-31\\TRiZBD\\LabWorks\\LabWork12 \u2014 \u043A\u043E\u043F\u0438\u044F\\ConsoleApp\\Models\\Session.cs",
+              "RelativeToolTip": "ConsoleApp\\Models\\Session.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T10:08:15.039Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Ticket.cs",
+              "DocumentMoniker": "C:\\temp\\ISPP-31\\TRiZBD\\LabWorks\\LabWork12 \u2014 \u043A\u043E\u043F\u0438\u044F\\ConsoleApp\\Models\\Ticket.cs",
+              "RelativeDocumentMoniker": "ConsoleApp\\Models\\Ticket.cs",
+              "ToolTip": "C:\\temp\\ISPP-31\\TRiZBD\\LabWorks\\LabWork12 \u2014 \u043A\u043E\u043F\u0438\u044F\\ConsoleApp\\Models\\Ticket.cs",
+              "RelativeToolTip": "ConsoleApp\\Models\\Ticket.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T10:08:09.338Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Genre.cs",
+              "DocumentMoniker": "C:\\temp\\ISPP-31\\TRiZBD\\LabWorks\\LabWork12 \u2014 \u043A\u043E\u043F\u0438\u044F\\ConsoleApp\\Models\\Genre.cs",
+              "RelativeDocumentMoniker": "ConsoleApp\\Models\\Genre.cs",
+              "ToolTip": "C:\\temp\\ISPP-31\\TRiZBD\\LabWorks\\LabWork12 \u2014 \u043A\u043E\u043F\u0438\u044F\\ConsoleApp\\Models\\Genre.cs",
+              "RelativeToolTip": "ConsoleApp\\Models\\Genre.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T08:53:57.117Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SessionService.cs",
+              "DocumentMoniker": "C:\\temp\\ISPP-31\\TRiZBD\\LabWorks\\LabWork12 \u2014 \u043A\u043E\u043F\u0438\u044F\\ConsoleApp\\Services\\SessionService.cs",
+              "RelativeDocumentMoniker": "ConsoleApp\\Services\\SessionService.cs",
+              "ToolTip": "C:\\temp\\ISPP-31\\TRiZBD\\LabWorks\\LabWork12 \u2014 \u043A\u043E\u043F\u0438\u044F\\ConsoleApp\\Services\\SessionService.cs",
+              "RelativeToolTip": "ConsoleApp\\Services\\SessionService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T08:50:34.088Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\temp\\ISPP-31\\TRiZBD\\LabWorks\\LabWork12 \u2014 \u043A\u043E\u043F\u0438\u044F\\ConsoleApp\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp\\Program.cs",
+              "ToolTip": "C:\\temp\\ISPP-31\\TRiZBD\\LabWorks\\LabWork12 \u2014 \u043A\u043E\u043F\u0438\u044F\\ConsoleApp\\Program.cs",
+              "RelativeToolTip": "ConsoleApp\\Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACsAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T08:44:00.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Visitor.cs",
+              "DocumentMoniker": "C:\\temp\\ISPP-31\\TRiZBD\\LabWorks\\LabWork12 \u2014 \u043A\u043E\u043F\u0438\u044F\\ConsoleApp\\Models\\Visitor.cs",
+              "RelativeDocumentMoniker": "ConsoleApp\\Models\\Visitor.cs",
+              "ToolTip": "C:\\temp\\ISPP-31\\TRiZBD\\LabWorks\\LabWork12 \u2014 \u043A\u043E\u043F\u0438\u044F\\ConsoleApp\\Models\\Visitor.cs",
+              "RelativeToolTip": "ConsoleApp\\Models\\Visitor.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T10:15:14.658Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FilmService.cs",
+              "DocumentMoniker": "C:\\temp\\ISPP-31\\TRiZBD\\LabWorks\\LabWork12 \u2014 \u043A\u043E\u043F\u0438\u044F\\ConsoleApp\\Services\\FilmService.cs",
+              "RelativeDocumentMoniker": "ConsoleApp\\Services\\FilmService.cs",
+              "ToolTip": "C:\\temp\\ISPP-31\\TRiZBD\\LabWorks\\LabWork12 \u2014 \u043A\u043E\u043F\u0438\u044F\\ConsoleApp\\Services\\FilmService.cs",
+              "RelativeToolTip": "ConsoleApp\\Services\\FilmService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T08:04:06.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\temp\\ISPP-31\\TRiZBD\\LabWorks\\LabWork12 \u2014 \u043A\u043E\u043F\u0438\u044F\\ConsoleApp\\Contexts\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "ConsoleApp\\Contexts\\AppDbContext.cs",
+              "ToolTip": "C:\\temp\\ISPP-31\\TRiZBD\\LabWorks\\LabWork12 \u2014 \u043A\u043E\u043F\u0438\u044F\\ConsoleApp\\Contexts\\AppDbContext.cs",
+              "RelativeToolTip": "ConsoleApp\\Contexts\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T08:32:55.922Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

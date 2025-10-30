@@ -1,0 +1,6 @@
+@Lection1024_HostAddress = http://localhost:5012
+
+GET {{Lection1024_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

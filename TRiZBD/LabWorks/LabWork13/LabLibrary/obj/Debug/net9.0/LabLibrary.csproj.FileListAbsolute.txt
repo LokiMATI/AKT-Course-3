@@ -1,0 +1,15 @@
+C:\temp\ISPP-31\TRiZBD\LabWorks\LabWork13\LabLibrary\bin\Debug\net9.0\LabLibrary.deps.json
+C:\temp\ISPP-31\TRiZBD\LabWorks\LabWork13\LabLibrary\bin\Debug\net9.0\LabLibrary.runtimeconfig.json
+C:\temp\ISPP-31\TRiZBD\LabWorks\LabWork13\LabLibrary\bin\Debug\net9.0\LabLibrary.dll
+C:\temp\ISPP-31\TRiZBD\LabWorks\LabWork13\LabLibrary\bin\Debug\net9.0\LabLibrary.pdb
+C:\temp\ISPP-31\TRiZBD\LabWorks\LabWork13\LabLibrary\obj\Debug\net9.0\LabLibrary.csproj.AssemblyReference.cache
+C:\temp\ISPP-31\TRiZBD\LabWorks\LabWork13\LabLibrary\obj\Debug\net9.0\LabLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\ISPP-31\TRiZBD\LabWorks\LabWork13\LabLibrary\obj\Debug\net9.0\LabLibrary.AssemblyInfoInputs.cache
+C:\temp\ISPP-31\TRiZBD\LabWorks\LabWork13\LabLibrary\obj\Debug\net9.0\LabLibrary.AssemblyInfo.cs
+C:\temp\ISPP-31\TRiZBD\LabWorks\LabWork13\LabLibrary\obj\Debug\net9.0\LabLibrary.csproj.CoreCompileInputs.cache
+C:\temp\ISPP-31\TRiZBD\LabWorks\LabWork13\LabLibrary\obj\Debug\net9.0\LabLibrary.sourcelink.json
+C:\temp\ISPP-31\TRiZBD\LabWorks\LabWork13\LabLibrary\obj\Debug\net9.0\LabLibrary.dll
+C:\temp\ISPP-31\TRiZBD\LabWorks\LabWork13\LabLibrary\obj\Debug\net9.0\refint\LabLibrary.dll
+C:\temp\ISPP-31\TRiZBD\LabWorks\LabWork13\LabLibrary\obj\Debug\net9.0\LabLibrary.pdb
+C:\temp\ISPP-31\TRiZBD\LabWorks\LabWork13\LabLibrary\obj\Debug\net9.0\LabLibrary.genruntimeconfig.cache
+C:\temp\ISPP-31\TRiZBD\LabWorks\LabWork13\LabLibrary\obj\Debug\net9.0\ref\LabLibrary.dll

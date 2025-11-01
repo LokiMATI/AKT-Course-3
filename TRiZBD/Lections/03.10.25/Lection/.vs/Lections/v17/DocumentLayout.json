@@ -3,32 +3,16 @@
   "WorkspaceRootPath": "C:\\temp\\ISPP-31\\TRiZBD\\Lections\\03.10.25\\Lection\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FCB2B384-EA98-45A0-B7EA-EB23002FD42B}|Lection1024\\Lection1024.csproj|c:\\temp\\ispp-31\\trizbd\\lections\\03.10.25\\lection\\lection1024\\controllers\\gamescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FCB2B384-EA98-45A0-B7EA-EB23002FD42B}|Lection1024\\Lection1024.csproj|solutionrelative:lection1024\\controllers\\gamescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9DDFE15E-AE2F-4E20-AF30-B90358F25F10}|Lection1101\\Lection1101.csproj|c:\\temp\\ispp-31\\trizbd\\lections\\03.10.25\\lection\\lection1101\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DDFE15E-AE2F-4E20-AF30-B90358F25F10}|Lection1101\\Lection1101.csproj|solutionrelative:lection1101\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FCB2B384-EA98-45A0-B7EA-EB23002FD42B}|Lection1024\\Lection1024.csproj|c:\\temp\\ispp-31\\trizbd\\lections\\03.10.25\\lection\\lection1024\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FCB2B384-EA98-45A0-B7EA-EB23002FD42B}|Lection1024\\Lection1024.csproj|solutionrelative:lection1024\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9DDFE15E-AE2F-4E20-AF30-B90358F25F10}|Lection1101\\Lection1101.csproj|c:\\temp\\ispp-31\\trizbd\\lections\\03.10.25\\lection\\lection1101\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DDFE15E-AE2F-4E20-AF30-B90358F25F10}|Lection1101\\Lection1101.csproj|solutionrelative:lection1101\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FCB2B384-EA98-45A0-B7EA-EB23002FD42B}|Lection1024\\Lection1024.csproj|c:\\temp\\ispp-31\\trizbd\\lections\\03.10.25\\lection\\lection1024\\dtos\\gamedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FCB2B384-EA98-45A0-B7EA-EB23002FD42B}|Lection1024\\Lection1024.csproj|solutionrelative:lection1024\\dtos\\gamedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FCB2B384-EA98-45A0-B7EA-EB23002FD42B}|Lection1024\\Lection1024.csproj|c:\\temp\\ispp-31\\trizbd\\lections\\03.10.25\\lection\\lection1024\\contexts\\gamesdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FCB2B384-EA98-45A0-B7EA-EB23002FD42B}|Lection1024\\Lection1024.csproj|solutionrelative:lection1024\\contexts\\gamesdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FCB2B384-EA98-45A0-B7EA-EB23002FD42B}|Lection1024\\Lection1024.csproj|c:\\temp\\ispp-31\\trizbd\\lections\\03.10.25\\lection\\lection1024\\models\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FCB2B384-EA98-45A0-B7EA-EB23002FD42B}|Lection1024\\Lection1024.csproj|solutionrelative:lection1024\\models\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FCB2B384-EA98-45A0-B7EA-EB23002FD42B}|Lection1024\\Lection1024.csproj|c:\\temp\\ispp-31\\trizbd\\lections\\03.10.25\\lection\\lection1024\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FCB2B384-EA98-45A0-B7EA-EB23002FD42B}|Lection1024\\Lection1024.csproj|solutionrelative:lection1024\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FCB2B384-EA98-45A0-B7EA-EB23002FD42B}|Lection1024\\Lection1024.csproj|c:\\temp\\ispp-31\\trizbd\\lections\\03.10.25\\lection\\lection1024\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FCB2B384-EA98-45A0-B7EA-EB23002FD42B}|Lection1024\\Lection1024.csproj|solutionrelative:lection1024\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9DDFE15E-AE2F-4E20-AF30-B90358F25F10}|Lection1101\\Lection1101.csproj|c:\\temp\\ispp-31\\trizbd\\lections\\03.10.25\\lection\\lection1101\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DDFE15E-AE2F-4E20-AF30-B90358F25F10}|Lection1101\\Lection1101.csproj|solutionrelative:lection1101\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,92 +22,45 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Game.cs",
-              "DocumentMoniker": "C:\\temp\\ISPP-31\\TRiZBD\\Lections\\03.10.25\\Lection\\Lection1024\\Models\\Game.cs",
-              "RelativeDocumentMoniker": "Lection1024\\Models\\Game.cs",
-              "ToolTip": "C:\\temp\\ISPP-31\\TRiZBD\\Lections\\03.10.25\\Lection\\Lection1024\\Models\\Game.cs",
-              "RelativeToolTip": "Lection1024\\Models\\Game.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAEAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\temp\\ISPP-31\\TRiZBD\\Lections\\03.10.25\\Lection\\Lection1101\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Lection1101\\Models\\Product.cs",
+              "ToolTip": "C:\\temp\\ISPP-31\\TRiZBD\\Lections\\03.10.25\\Lection\\Lection1101\\Models\\Product.cs",
+              "RelativeToolTip": "Lection1101\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-29T11:02:10.328Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "GameDto.cs",
-              "DocumentMoniker": "C:\\temp\\ISPP-31\\TRiZBD\\Lections\\03.10.25\\Lection\\Lection1024\\DTOs\\GameDto.cs",
-              "RelativeDocumentMoniker": "Lection1024\\DTOs\\GameDto.cs",
-              "ToolTip": "C:\\temp\\ISPP-31\\TRiZBD\\Lections\\03.10.25\\Lection\\Lection1024\\DTOs\\GameDto.cs",
-              "RelativeToolTip": "Lection1024\\DTOs\\GameDto.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAA9wBUAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-29T11:02:02.013Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Category.cs",
-              "DocumentMoniker": "C:\\temp\\ISPP-31\\TRiZBD\\Lections\\03.10.25\\Lection\\Lection1024\\Models\\Category.cs",
-              "RelativeDocumentMoniker": "Lection1024\\Models\\Category.cs",
-              "ToolTip": "C:\\temp\\ISPP-31\\TRiZBD\\Lections\\03.10.25\\Lection\\Lection1024\\Models\\Category.cs",
-              "RelativeToolTip": "Lection1024\\Models\\Category.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-29T10:12:30.33Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\temp\\ISPP-31\\TRiZBD\\Lections\\03.10.25\\Lection\\Lection1024\\Program.cs",
-              "RelativeDocumentMoniker": "Lection1024\\Program.cs",
-              "ToolTip": "C:\\temp\\ISPP-31\\TRiZBD\\Lections\\03.10.25\\Lection\\Lection1024\\Program.cs",
-              "RelativeToolTip": "Lection1024\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-29T10:09:02.725Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "GamesDbContext.cs",
-              "DocumentMoniker": "C:\\temp\\ISPP-31\\TRiZBD\\Lections\\03.10.25\\Lection\\Lection1024\\Contexts\\GamesDbContext.cs",
-              "RelativeDocumentMoniker": "Lection1024\\Contexts\\GamesDbContext.cs",
-              "ToolTip": "C:\\temp\\ISPP-31\\TRiZBD\\Lections\\03.10.25\\Lection\\Lection1024\\Contexts\\GamesDbContext.cs",
-              "RelativeToolTip": "Lection1024\\Contexts\\GamesDbContext.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAmwBcAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-29T10:08:21.393Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "GamesController.cs",
-              "DocumentMoniker": "C:\\temp\\ISPP-31\\TRiZBD\\Lections\\03.10.25\\Lection\\Lection1024\\Controllers\\GamesController.cs",
-              "RelativeDocumentMoniker": "Lection1024\\Controllers\\GamesController.cs",
-              "ToolTip": "C:\\temp\\ISPP-31\\TRiZBD\\Lections\\03.10.25\\Lection\\Lection1024\\Controllers\\GamesController.cs",
-              "RelativeToolTip": "Lection1024\\Controllers\\GamesController.cs",
-              "ViewState": "AgIAACYAAAAAAAAAAAAnwFQAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-27T07:32:58.878Z",
+              "WhenOpened": "2025-11-01T10:04:52.795Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "CategoriesController.cs",
-              "DocumentMoniker": "C:\\temp\\ISPP-31\\TRiZBD\\Lections\\03.10.25\\Lection\\Lection1024\\Controllers\\CategoriesController.cs",
-              "RelativeDocumentMoniker": "Lection1024\\Controllers\\CategoriesController.cs",
-              "ToolTip": "C:\\temp\\ISPP-31\\TRiZBD\\Lections\\03.10.25\\Lection\\Lection1024\\Controllers\\CategoriesController.cs",
-              "RelativeToolTip": "Lection1024\\Controllers\\CategoriesController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAnAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\temp\\ISPP-31\\TRiZBD\\Lections\\03.10.25\\Lection\\Lection1101\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "Lection1101\\Models\\Category.cs",
+              "ToolTip": "C:\\temp\\ISPP-31\\TRiZBD\\Lections\\03.10.25\\Lection\\Lection1101\\Models\\Category.cs",
+              "RelativeToolTip": "Lection1101\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-27T07:31:39.506Z",
+              "WhenOpened": "2025-11-01T09:56:56.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\temp\\ISPP-31\\TRiZBD\\Lections\\03.10.25\\Lection\\Lection1101\\Program.cs",
+              "RelativeDocumentMoniker": "Lection1101\\Program.cs",
+              "ToolTip": "C:\\temp\\ISPP-31\\TRiZBD\\Lections\\03.10.25\\Lection\\Lection1101\\Program.cs*",
+              "RelativeToolTip": "Lection1101\\Program.cs*",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAABUAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-01T09:54:53.817Z",
               "EditorCaption": ""
             }
           ]

@@ -1,5 +1,7 @@
 ﻿using LabLibrary.Contexts;
 using LabLibrary.Models;
+using LabWork13.DTOs;
+using LabWork13.DTOs.DTO_Extensions;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 
@@ -102,7 +104,7 @@ public class FilmsController(CinemaDbContext context) : ControllerBase
 
         if (!string.IsNullOrWhiteSpace(year))
         {
-            string[] years = year.Split('-', StringSplitOptions.RemoveEmptyEntries|StringSplitOptions.TrimEntries);
+            string[] years = year.Split('-', StringSplitOptions.RemoveEmptyEntries | StringSplitOptions.TrimEntries);
 
             int minYear, maxYear;
             if (!int.TryParse(years[0], out minYear) || !int.TryParse(years[1], out maxYear))
@@ -113,21 +115,37 @@ public class FilmsController(CinemaDbContext context) : ControllerBase
 
         if (!string.IsNullOrWhiteSpace(genreNames))
         {
-            string[] genreValues = genreNames.Split(",", StringSplitOptions.TrimEntries|StringSplitOptions.RemoveEmptyEntries);
+            string[] genreValues = genreNames.Split(",", StringSplitOptions.TrimEntries | StringSplitOptions.RemoveEmptyEntries);
 
             var genres = await _context.Genres.Where(g => genreValues.Contains(g.Title)).ToListAsync();
             foreach (var genre in genres)
                 films = films.Where(f => f.Genres.Contains(genre));
         }
-        
+
         return await films.ToListAsync();
     }
 
-    //[HttpGet("statistics")]
-    //public async Task<ActionResult<IEnumerable<Film>>> GetFilmStatistics(int id)
-    //{
-        
-    //}
+    [HttpGet("statistics")]
+    public async Task<ActionResult<IEnumerable<FilmDto>>> GetFilmDtos()
+    {
+        var films = _context.Films.AsQueryable();
+        List<FilmDto> dtos = new();
+
+        foreach (var film in films)
+            dtos.Add(GetDto(film));
+
+        return dtos;
+    }
+
+    [HttpGet("statistics/{id}")]
+    public async Task<ActionResult<FilmDto>> GetFilmDto(int id)
+    {
+        var film = await _context.Films.FirstOrDefaultAsync(f => f.FilmId == id);
+        if (film is null)
+            return NotFound();
+
+        return GetDto(film);
+    }
 
     // PUT: api/Films/5
     // To protect from overposting attacks, see https://go.microsoft.com/fwlink/?linkid=2123754
@@ -190,5 +208,21 @@ public class FilmsController(CinemaDbContext context) : ControllerBase
     private bool FilmExists(int id)
     {
         return _context.Films.Any(e => e.FilmId == id);
+    }
+
+    private FilmDto GetDto(Film film)
+    {
+        int ticketAmout = 0;
+        decimal salesProfit = 0;
+
+        var sessions = _context.Sessions.Where(s => s.FilmId == film.FilmId).ToList();
+
+        foreach (var session in sessions)
+        {
+            ticketAmout = _context.Tickets.Count(t => t.SessionId == session.SessionId);
+            salesProfit += ticketAmout * session.Price;
+        }
+
+        return film.ToDto(ticketAmout, salesProfit);
     }
 }

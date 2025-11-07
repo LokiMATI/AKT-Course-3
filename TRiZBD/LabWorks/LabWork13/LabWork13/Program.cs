@@ -18,6 +18,8 @@ builder.Services.AddControllers()
 
 builder.Services.AddDbContext<CinemaDbContext>();
 
+builder.Services.AddCors();
+
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
@@ -27,10 +29,13 @@ if (app.Environment.IsDevelopment())
     app.MapOpenApi();
 }
 
-
 app.UseHttpsRedirection();
 
 app.UseAuthorization();
+
+app.UseRouting();
+
+app.UseCors(options => options.AllowAnyOrigin());
 
 app.MapControllers();
 

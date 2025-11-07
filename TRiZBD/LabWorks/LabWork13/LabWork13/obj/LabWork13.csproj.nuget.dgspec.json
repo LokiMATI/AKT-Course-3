@@ -4,12 +4,12 @@
     "C:\\temp\\ISPP-31\\TRiZBD\\LabWorks\\LabWork13\\LabWork13\\LabWork13.csproj": {}
   },
   "projects": {
-    "C:\\temp\\ISPP-31\\TRiZBD\\LabWorks\\LabWork13\\LabLibrary\\LabLibrary.csproj": {
+    "C:\\temp\\ISPP-31\\TRiZBD\\LabWorks\\LabWork13\\LabLibrary\\DatabaseLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\temp\\ISPP-31\\TRiZBD\\LabWorks\\LabWork13\\LabLibrary\\LabLibrary.csproj",
-        "projectName": "LabLibrary",
-        "projectPath": "C:\\temp\\ISPP-31\\TRiZBD\\LabWorks\\LabWork13\\LabLibrary\\LabLibrary.csproj",
+        "projectUniqueName": "C:\\temp\\ISPP-31\\TRiZBD\\LabWorks\\LabWork13\\LabLibrary\\DatabaseLibrary.csproj",
+        "projectName": "DatabaseLibrary",
+        "projectPath": "C:\\temp\\ISPP-31\\TRiZBD\\LabWorks\\LabWork13\\LabLibrary\\DatabaseLibrary.csproj",
         "packagesPath": "C:\\Users\\0109-13\\.nuget\\packages\\",
         "outputPath": "C:\\temp\\ISPP-31\\TRiZBD\\LabWorks\\LabWork13\\LabLibrary\\obj\\",
         "projectStyle": "PackageReference",
@@ -115,8 +115,8 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "C:\\temp\\ISPP-31\\TRiZBD\\LabWorks\\LabWork13\\LabLibrary\\LabLibrary.csproj": {
-                "projectPath": "C:\\temp\\ISPP-31\\TRiZBD\\LabWorks\\LabWork13\\LabLibrary\\LabLibrary.csproj"
+              "C:\\temp\\ISPP-31\\TRiZBD\\LabWorks\\LabWork13\\LabLibrary\\DatabaseLibrary.csproj": {
+                "projectPath": "C:\\temp\\ISPP-31\\TRiZBD\\LabWorks\\LabWork13\\LabLibrary\\DatabaseLibrary.csproj"
               }
             }
           }

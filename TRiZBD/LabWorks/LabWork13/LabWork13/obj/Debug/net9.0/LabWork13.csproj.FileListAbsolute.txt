@@ -271,3 +271,5 @@ C:\temp\ISPP-31\TRiZBD\LabWorks\LabWork13\LabWork13\bin\Debug\net9.0\ru\Microsof
 C:\temp\ISPP-31\TRiZBD\LabWorks\LabWork13\LabWork13\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
 C:\temp\ISPP-31\TRiZBD\LabWorks\LabWork13\LabWork13\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
 C:\temp\ISPP-31\TRiZBD\LabWorks\LabWork13\LabWork13\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\temp\ISPP-31\TRiZBD\LabWorks\LabWork13\LabWork13\obj\Debug\net9.0\LabWork13.RazorAssemblyInfo.cache
+C:\temp\ISPP-31\TRiZBD\LabWorks\LabWork13\LabWork13\obj\Debug\net9.0\LabWork13.RazorAssemblyInfo.cs

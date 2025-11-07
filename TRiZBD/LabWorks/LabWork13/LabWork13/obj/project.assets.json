@@ -2871,17 +2871,17 @@
           "lib/netcoreapp2.1/_._": {}
         }
       },
-      "LabLibrary/1.0.0": {
+      "DatabaseLibrary/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v9.0",
         "dependencies": {
           "Microsoft.EntityFrameworkCore.SqlServer": "9.0.10"
         },
         "compile": {
-          "bin/placeholder/LabLibrary.dll": {}
+          "bin/placeholder/DatabaseLibrary.dll": {}
         },
         "runtime": {
-          "bin/placeholder/LabLibrary.dll": {}
+          "bin/placeholder/DatabaseLibrary.dll": {}
         }
       }
     }
@@ -7774,15 +7774,15 @@
         "version.txt"
       ]
     },
-    "LabLibrary/1.0.0": {
+    "DatabaseLibrary/1.0.0": {
       "type": "project",
-      "path": "../LabLibrary/LabLibrary.csproj",
-      "msbuildProject": "../LabLibrary/LabLibrary.csproj"
+      "path": "../LabLibrary/DatabaseLibrary.csproj",
+      "msbuildProject": "../LabLibrary/DatabaseLibrary.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net9.0": [
-      "LabLibrary >= 1.0.0",
+      "DatabaseLibrary >= 1.0.0",
       "Microsoft.AspNetCore.OpenApi >= 9.0.5",
       "Microsoft.EntityFrameworkCore.Design >= 9.0.10",
       "Microsoft.EntityFrameworkCore.Tools >= 9.0.0",
@@ -7797,9 +7797,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\temp\\ISPP-31\\TRiZBD\\LabWorks\\LabWork13\\LabWork13\\LabWork13.csproj",
-      "projectName": "LabWork13",
-      "projectPath": "C:\\temp\\ISPP-31\\TRiZBD\\LabWorks\\LabWork13\\LabWork13\\LabWork13.csproj",
+      "projectUniqueName": "C:\\temp\\ISPP-31\\TRiZBD\\LabWorks\\LabWork13\\LabWork13\\WebApi.csproj",
+      "projectName": "WebApi",
+      "projectPath": "C:\\temp\\ISPP-31\\TRiZBD\\LabWorks\\LabWork13\\LabWork13\\WebApi.csproj",
       "packagesPath": "C:\\Users\\0109-13\\.nuget\\packages\\",
       "outputPath": "C:\\temp\\ISPP-31\\TRiZBD\\LabWorks\\LabWork13\\LabWork13\\obj\\",
       "projectStyle": "PackageReference",
@@ -7822,8 +7822,8 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "projectReferences": {
-            "C:\\temp\\ISPP-31\\TRiZBD\\LabWorks\\LabWork13\\LabLibrary\\LabLibrary.csproj": {
-              "projectPath": "C:\\temp\\ISPP-31\\TRiZBD\\LabWorks\\LabWork13\\LabLibrary\\LabLibrary.csproj"
+            "C:\\temp\\ISPP-31\\TRiZBD\\LabWorks\\LabWork13\\LabLibrary\\DatabaseLibrary.csproj": {
+              "projectPath": "C:\\temp\\ISPP-31\\TRiZBD\\LabWorks\\LabWork13\\LabLibrary\\DatabaseLibrary.csproj"
             }
           }
         }

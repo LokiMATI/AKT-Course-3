@@ -1,0 +1,16 @@
+C:\temp\ISPP-31\TRiZBD\LabWorks\LabWork13\ApiServicesLibrary\bin\Debug\net9.0\ApiServicesLibrary.deps.json
+C:\temp\ISPP-31\TRiZBD\LabWorks\LabWork13\ApiServicesLibrary\bin\Debug\net9.0\ApiServicesLibrary.dll
+C:\temp\ISPP-31\TRiZBD\LabWorks\LabWork13\ApiServicesLibrary\bin\Debug\net9.0\ApiServicesLibrary.pdb
+C:\temp\ISPP-31\TRiZBD\LabWorks\LabWork13\ApiServicesLibrary\obj\Debug\net9.0\ApiServicesLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\ISPP-31\TRiZBD\LabWorks\LabWork13\ApiServicesLibrary\obj\Debug\net9.0\ApiServicesLibrary.AssemblyInfoInputs.cache
+C:\temp\ISPP-31\TRiZBD\LabWorks\LabWork13\ApiServicesLibrary\obj\Debug\net9.0\ApiServicesLibrary.AssemblyInfo.cs
+C:\temp\ISPP-31\TRiZBD\LabWorks\LabWork13\ApiServicesLibrary\obj\Debug\net9.0\ApiServicesLibrary.csproj.CoreCompileInputs.cache
+C:\temp\ISPP-31\TRiZBD\LabWorks\LabWork13\ApiServicesLibrary\obj\Debug\net9.0\ApiServicesLibrary.sourcelink.json
+C:\temp\ISPP-31\TRiZBD\LabWorks\LabWork13\ApiServicesLibrary\obj\Debug\net9.0\ApiServicesLibrary.dll
+C:\temp\ISPP-31\TRiZBD\LabWorks\LabWork13\ApiServicesLibrary\obj\Debug\net9.0\refint\ApiServicesLibrary.dll
+C:\temp\ISPP-31\TRiZBD\LabWorks\LabWork13\ApiServicesLibrary\obj\Debug\net9.0\ApiServicesLibrary.pdb
+C:\temp\ISPP-31\TRiZBD\LabWorks\LabWork13\ApiServicesLibrary\obj\Debug\net9.0\ref\ApiServicesLibrary.dll
+C:\temp\ISPP-31\TRiZBD\LabWorks\LabWork13\ApiServicesLibrary\obj\Debug\net9.0\ApiServicesLibrary.csproj.AssemblyReference.cache
+C:\temp\ISPP-31\TRiZBD\LabWorks\LabWork13\ApiServicesLibrary\obj\Debug\net9.0\ApiServi.A04614B7.Up2Date
+C:\temp\ISPP-31\TRiZBD\LabWorks\LabWork13\ApiServicesLibrary\bin\Debug\net9.0\DatabaseLibrary.dll
+C:\temp\ISPP-31\TRiZBD\LabWorks\LabWork13\ApiServicesLibrary\bin\Debug\net9.0\DatabaseLibrary.pdb

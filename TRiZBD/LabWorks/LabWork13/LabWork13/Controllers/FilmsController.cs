@@ -7,7 +7,7 @@ using Microsoft.EntityFrameworkCore;
 
 namespace LabWork13.Controllers;
 
-[Route("api/films")]
+[Route("api/Films")]
 [ApiController]
 public class FilmsController(CinemaDbContext context) : ControllerBase
 {
@@ -71,7 +71,7 @@ public class FilmsController(CinemaDbContext context) : ControllerBase
         return await films.ToListAsync();
     }
 
-    [HttpGet("{id}/genres")]
+    [HttpGet("{id}/Genres")]
     public async Task<ActionResult<IEnumerable<Genre>>> GetGenresByFilm(int id)
     {
         var film = await _context.Films
@@ -98,7 +98,7 @@ public class FilmsController(CinemaDbContext context) : ControllerBase
     }
 
     [HttpGet("search")]
-    public async Task<ActionResult<IEnumerable<Film>>> GetFilmsWithSearch(string? year = null, string? genreNames = null)
+    public async Task<ActionResult<IEnumerable<Film>>> GetFilmsWithSearch(string? year = null, string? GenreNames = null)
     {
         var films = _context.Films.AsQueryable();
 
@@ -113,13 +113,13 @@ public class FilmsController(CinemaDbContext context) : ControllerBase
             films = films.Where(f => f.Year >= minYear && f.Year <= maxYear);
         }
 
-        if (!string.IsNullOrWhiteSpace(genreNames))
+        if (!string.IsNullOrWhiteSpace(GenreNames))
         {
-            string[] genreValues = genreNames.Split(",", StringSplitOptions.TrimEntries | StringSplitOptions.RemoveEmptyEntries);
+            string[] GenreValues = GenreNames.Split(",", StringSplitOptions.TrimEntries | StringSplitOptions.RemoveEmptyEntries);
 
-            var genres = await _context.Genres.Where(g => genreValues.Contains(g.Title)).ToListAsync();
-            foreach (var genre in genres)
-                films = films.Where(f => f.Genres.Contains(genre));
+            var Genres = await _context.Genres.Where(g => GenreValues.Contains(g.Title)).ToListAsync();
+            foreach (var Genre in Genres)
+                films = films.Where(f => f.Genres.Contains(Genre));
         }
 
         return await films.ToListAsync();
@@ -128,11 +128,18 @@ public class FilmsController(CinemaDbContext context) : ControllerBase
     [HttpGet("statistics")]
     public async Task<ActionResult<IEnumerable<FilmDto>>> GetFilmDtos()
     {
-        var films = _context.Films.AsQueryable();
+        var films = await _context.Films
+            .Include(f => f.Sessions)
+            .ThenInclude(s => s.Tickets)
+            .GroupBy(f => f.FilmId)
+            .Select(g => new {g.Key, 
+                TicketsCount = g.Sum(f => f.Sessions.Sum(s => s.Tickets.Count() * s.Price),
+                PriceCount = g.Sum(f => f.Sessions.Sum())
+            .ToListAsync();
         List<FilmDto> dtos = new();
 
         foreach (var film in films)
-            dtos.Add(GetDto(film));
+            dtos.Add(await GetDtoAsync(film));
 
         return dtos;
     }
@@ -144,7 +151,7 @@ public class FilmsController(CinemaDbContext context) : ControllerBase
         if (film is null)
             return NotFound();
 
-        return GetDto(film);
+        return await GetDtoAsync(film);
     }
 
     // PUT: api/Films/5
@@ -210,16 +217,15 @@ public class FilmsController(CinemaDbContext context) : ControllerBase
         return _context.Films.Any(e => e.FilmId == id);
     }
 
-    private FilmDto GetDto(Film film)
+    private async Task<FilmDto> GetDtoAsync(Film film)
     {
         int ticketAmout = 0;
         decimal salesProfit = 0;
 
-        var sessions = _context.Sessions.Where(s => s.FilmId == film.FilmId).ToList();
-
+        var sessions = await _context.Sessions.Where(s => s.FilmId == film.FilmId).ToListAsync();
         foreach (var session in sessions)
         {
-            ticketAmout = _context.Tickets.Count(t => t.SessionId == session.SessionId);
+            ticketAmout += _context.Tickets.Count(t => t.SessionId == session.SessionId);
             salesProfit += ticketAmout * session.Price;
         }
 

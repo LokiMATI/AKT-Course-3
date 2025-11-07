@@ -1,0 +1,15 @@
+C:\temp\ISPP-31\TRiZBD\LabWorks\LabWork13\LabLibrary\bin\Debug\net9.0\DatabaseLibrary.deps.json
+C:\temp\ISPP-31\TRiZBD\LabWorks\LabWork13\LabLibrary\bin\Debug\net9.0\DatabaseLibrary.runtimeconfig.json
+C:\temp\ISPP-31\TRiZBD\LabWorks\LabWork13\LabLibrary\bin\Debug\net9.0\DatabaseLibrary.dll
+C:\temp\ISPP-31\TRiZBD\LabWorks\LabWork13\LabLibrary\bin\Debug\net9.0\DatabaseLibrary.pdb
+C:\temp\ISPP-31\TRiZBD\LabWorks\LabWork13\LabLibrary\obj\Debug\net9.0\DatabaseLibrary.csproj.AssemblyReference.cache
+C:\temp\ISPP-31\TRiZBD\LabWorks\LabWork13\LabLibrary\obj\Debug\net9.0\DatabaseLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\ISPP-31\TRiZBD\LabWorks\LabWork13\LabLibrary\obj\Debug\net9.0\DatabaseLibrary.AssemblyInfoInputs.cache
+C:\temp\ISPP-31\TRiZBD\LabWorks\LabWork13\LabLibrary\obj\Debug\net9.0\DatabaseLibrary.AssemblyInfo.cs
+C:\temp\ISPP-31\TRiZBD\LabWorks\LabWork13\LabLibrary\obj\Debug\net9.0\DatabaseLibrary.csproj.CoreCompileInputs.cache
+C:\temp\ISPP-31\TRiZBD\LabWorks\LabWork13\LabLibrary\obj\Debug\net9.0\DatabaseLibrary.sourcelink.json
+C:\temp\ISPP-31\TRiZBD\LabWorks\LabWork13\LabLibrary\obj\Debug\net9.0\DatabaseLibrary.dll
+C:\temp\ISPP-31\TRiZBD\LabWorks\LabWork13\LabLibrary\obj\Debug\net9.0\refint\DatabaseLibrary.dll
+C:\temp\ISPP-31\TRiZBD\LabWorks\LabWork13\LabLibrary\obj\Debug\net9.0\DatabaseLibrary.pdb
+C:\temp\ISPP-31\TRiZBD\LabWorks\LabWork13\LabLibrary\obj\Debug\net9.0\DatabaseLibrary.genruntimeconfig.cache
+C:\temp\ISPP-31\TRiZBD\LabWorks\LabWork13\LabLibrary\obj\Debug\net9.0\ref\DatabaseLibrary.dll

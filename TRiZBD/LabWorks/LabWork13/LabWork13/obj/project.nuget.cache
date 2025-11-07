@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gY6Fnj36joQ=",
+  "dgSpecHash": "r8Yv9XKeGho=",
   "success": true,
-  "projectFilePath": "C:\\temp\\ISPP-31\\TRiZBD\\LabWorks\\LabWork13\\LabWork13\\LabWork13.csproj",
+  "projectFilePath": "C:\\temp\\ISPP-31\\TRiZBD\\LabWorks\\LabWork13\\LabWork13\\WebApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\0109-13\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\0109-13\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

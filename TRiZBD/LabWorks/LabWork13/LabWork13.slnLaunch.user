@@ -1,0 +1,16 @@
+[
+  {
+    "Name": "TestLabWork13",
+    "Projects": [
+      {
+        "Path": "LabWork13\\WebApi.csproj",
+        "Action": "Start",
+        "DebugTarget": "https"
+      },
+      {
+        "Path": "LabConsoleApp\\ConsoleApp.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

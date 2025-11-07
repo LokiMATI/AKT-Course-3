@@ -3,32 +3,28 @@
   "WorkspaceRootPath": "C:\\temp\\ISPP-31\\TRiZBD\\LabWorks\\LabWork13\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3D55E871-40A3-47FC-BD7F-B81264A678AB}|LabWork13\\LabWork13.csproj|c:\\temp\\ispp-31\\trizbd\\labworks\\labwork13\\labwork13\\controllers\\filmscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3D55E871-40A3-47FC-BD7F-B81264A678AB}|LabWork13\\LabWork13.csproj|solutionrelative:labwork13\\controllers\\filmscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3D55E871-40A3-47FC-BD7F-B81264A678AB}|LabWork13\\WebApi.csproj|c:\\temp\\ispp-31\\trizbd\\labworks\\labwork13\\labwork13\\controllers\\filmscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D55E871-40A3-47FC-BD7F-B81264A678AB}|LabWork13\\WebApi.csproj|solutionrelative:labwork13\\controllers\\filmscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3D55E871-40A3-47FC-BD7F-B81264A678AB}|LabWork13\\LabWork13.csproj|c:\\temp\\ispp-31\\trizbd\\labworks\\labwork13\\labwork13\\dtos\\dto extensions\\filmdtoextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3D55E871-40A3-47FC-BD7F-B81264A678AB}|LabWork13\\LabWork13.csproj|solutionrelative:labwork13\\dtos\\dto extensions\\filmdtoextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3D55E871-40A3-47FC-BD7F-B81264A678AB}|LabWork13\\WebApi.csproj|c:\\temp\\ispp-31\\trizbd\\labworks\\labwork13\\labwork13\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3D55E871-40A3-47FC-BD7F-B81264A678AB}|LabWork13\\WebApi.csproj|solutionrelative:labwork13\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3D55E871-40A3-47FC-BD7F-B81264A678AB}|LabWork13\\LabWork13.csproj|c:\\temp\\ispp-31\\trizbd\\labworks\\labwork13\\labwork13\\dtos\\filmdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3D55E871-40A3-47FC-BD7F-B81264A678AB}|LabWork13\\LabWork13.csproj|solutionrelative:labwork13\\dtos\\filmdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3D55E871-40A3-47FC-BD7F-B81264A678AB}|LabWork13\\WebApi.csproj|c:\\temp\\ispp-31\\trizbd\\labworks\\labwork13\\labwork13\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D55E871-40A3-47FC-BD7F-B81264A678AB}|LabWork13\\WebApi.csproj|solutionrelative:labwork13\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3D55E871-40A3-47FC-BD7F-B81264A678AB}|LabWork13\\LabWork13.csproj|c:\\temp\\ispp-31\\trizbd\\labworks\\labwork13\\labwork13\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3D55E871-40A3-47FC-BD7F-B81264A678AB}|LabWork13\\LabWork13.csproj|solutionrelative:labwork13\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5248D824-DA0A-48EE-9C02-332DD55565FA}|LabConsoleApp\\ConsoleApp.csproj|c:\\temp\\ispp-31\\trizbd\\labworks\\labwork13\\labconsoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5248D824-DA0A-48EE-9C02-332DD55565FA}|LabConsoleApp\\ConsoleApp.csproj|solutionrelative:labconsoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2688F812-EDE2-4A7F-8774-0B6CDC0D3145}|LabLibrary\\LabLibrary.csproj|c:\\temp\\ispp-31\\trizbd\\labworks\\labwork13\\lablibrary\\contexts\\cinemadbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2688F812-EDE2-4A7F-8774-0B6CDC0D3145}|LabLibrary\\LabLibrary.csproj|solutionrelative:lablibrary\\contexts\\cinemadbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3D55E871-40A3-47FC-BD7F-B81264A678AB}|LabWork13\\WebApi.csproj|c:\\temp\\ispp-31\\trizbd\\labworks\\labwork13\\labwork13\\controllers\\visitorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D55E871-40A3-47FC-BD7F-B81264A678AB}|LabWork13\\WebApi.csproj|solutionrelative:labwork13\\controllers\\visitorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2688F812-EDE2-4A7F-8774-0B6CDC0D3145}|LabLibrary\\LabLibrary.csproj|c:\\temp\\ispp-31\\trizbd\\labworks\\labwork13\\lablibrary\\models\\session.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2688F812-EDE2-4A7F-8774-0B6CDC0D3145}|LabLibrary\\LabLibrary.csproj|solutionrelative:lablibrary\\models\\session.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2688F812-EDE2-4A7F-8774-0B6CDC0D3145}|LabLibrary\\LabLibrary.csproj|c:\\temp\\ispp-31\\trizbd\\labworks\\labwork13\\lablibrary\\models\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2688F812-EDE2-4A7F-8774-0B6CDC0D3145}|LabLibrary\\LabLibrary.csproj|solutionrelative:lablibrary\\models\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{55B619F6-2439-4EC7-B5F2-DA783AF22703}|ApiServicesLibrary\\ApiServicesLibrary.csproj|c:\\temp\\ispp-31\\trizbd\\labworks\\labwork13\\apiserviceslibrary\\visitorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55B619F6-2439-4EC7-B5F2-DA783AF22703}|ApiServicesLibrary\\ApiServicesLibrary.csproj|solutionrelative:apiserviceslibrary\\visitorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,27 +38,28 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Session.cs",
-              "DocumentMoniker": "C:\\temp\\ISPP-31\\TRiZBD\\LabWorks\\LabWork13\\LabLibrary\\Models\\Session.cs",
-              "RelativeDocumentMoniker": "LabLibrary\\Models\\Session.cs",
-              "ToolTip": "C:\\temp\\ISPP-31\\TRiZBD\\LabWorks\\LabWork13\\LabLibrary\\Models\\Session.cs",
-              "RelativeToolTip": "LabLibrary\\Models\\Session.cs",
+              "DocumentIndex": 1,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\temp\\ISPP-31\\TRiZBD\\LabWorks\\LabWork13\\LabWork13\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "LabWork13\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\temp\\ISPP-31\\TRiZBD\\LabWorks\\LabWork13\\LabWork13\\Properties\\launchSettings.json",
+              "RelativeToolTip": "LabWork13\\Properties\\launchSettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-30T08:56:53.605Z"
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-06T09:41:19.205Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Ticket.cs",
-              "DocumentMoniker": "C:\\temp\\ISPP-31\\TRiZBD\\LabWorks\\LabWork13\\LabLibrary\\Models\\Ticket.cs",
-              "RelativeDocumentMoniker": "LabLibrary\\Models\\Ticket.cs",
-              "ToolTip": "C:\\temp\\ISPP-31\\TRiZBD\\LabWorks\\LabWork13\\LabLibrary\\Models\\Ticket.cs",
-              "RelativeToolTip": "LabLibrary\\Models\\Ticket.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\temp\\ISPP-31\\TRiZBD\\LabWorks\\LabWork13\\LabWork13\\Program.cs",
+              "RelativeDocumentMoniker": "LabWork13\\Program.cs",
+              "ToolTip": "C:\\temp\\ISPP-31\\TRiZBD\\LabWorks\\LabWork13\\LabWork13\\Program.cs",
+              "RelativeToolTip": "LabWork13\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABsAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-30T08:56:50.14Z"
+              "WhenOpened": "2025-11-06T09:41:05.531Z"
             },
             {
               "$type": "Document",
@@ -70,64 +67,48 @@
               "Title": "FilmsController.cs",
               "DocumentMoniker": "C:\\temp\\ISPP-31\\TRiZBD\\LabWorks\\LabWork13\\LabWork13\\Controllers\\FilmsController.cs",
               "RelativeDocumentMoniker": "LabWork13\\Controllers\\FilmsController.cs",
-              "ToolTip": "C:\\temp\\ISPP-31\\TRiZBD\\LabWorks\\LabWork13\\LabWork13\\Controllers\\FilmsController.cs",
-              "RelativeToolTip": "LabWork13\\Controllers\\FilmsController.cs",
-              "ViewState": "AgIAAM4AAAAAAAAAAAAlwN8AAAAJAAAAAAAAAA==",
+              "ToolTip": "C:\\temp\\ISPP-31\\TRiZBD\\LabWorks\\LabWork13\\LabWork13\\Controllers\\FilmsController.cs*",
+              "RelativeToolTip": "LabWork13\\Controllers\\FilmsController.cs*",
+              "ViewState": "AgIAAMgAAAAAAAAAAAAEwNcAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-30T07:37:49.07Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "FilmDtoExtension.cs",
-              "DocumentMoniker": "C:\\temp\\ISPP-31\\TRiZBD\\LabWorks\\LabWork13\\LabWork13\\DTOs\\DTO Extensions\\FilmDtoExtension.cs",
-              "RelativeDocumentMoniker": "LabWork13\\DTOs\\DTO Extensions\\FilmDtoExtension.cs",
-              "ToolTip": "C:\\temp\\ISPP-31\\TRiZBD\\LabWorks\\LabWork13\\LabWork13\\DTOs\\DTO Extensions\\FilmDtoExtension.cs",
-              "RelativeToolTip": "LabWork13\\DTOs\\DTO Extensions\\FilmDtoExtension.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-30T08:48:48.524Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "FilmDto.cs",
-              "DocumentMoniker": "C:\\temp\\ISPP-31\\TRiZBD\\LabWorks\\LabWork13\\LabWork13\\DTOs\\FilmDto.cs",
-              "RelativeDocumentMoniker": "LabWork13\\DTOs\\FilmDto.cs",
-              "ToolTip": "C:\\temp\\ISPP-31\\TRiZBD\\LabWorks\\LabWork13\\LabWork13\\DTOs\\FilmDto.cs",
-              "RelativeToolTip": "LabWork13\\DTOs\\FilmDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-30T08:46:45.405Z",
+              "WhenOpened": "2025-11-06T09:39:37.543Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "CinemaDbContext.cs",
-              "DocumentMoniker": "C:\\temp\\ISPP-31\\TRiZBD\\LabWorks\\LabWork13\\LabLibrary\\Contexts\\CinemaDbContext.cs",
-              "RelativeDocumentMoniker": "LabLibrary\\Contexts\\CinemaDbContext.cs",
-              "ToolTip": "C:\\temp\\ISPP-31\\TRiZBD\\LabWorks\\LabWork13\\LabLibrary\\Contexts\\CinemaDbContext.cs",
-              "RelativeToolTip": "LabLibrary\\Contexts\\CinemaDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "VisitorsController.cs",
+              "DocumentMoniker": "C:\\temp\\ISPP-31\\TRiZBD\\LabWorks\\LabWork13\\LabWork13\\Controllers\\VisitorsController.cs",
+              "RelativeDocumentMoniker": "LabWork13\\Controllers\\VisitorsController.cs",
+              "ToolTip": "C:\\temp\\ISPP-31\\TRiZBD\\LabWorks\\LabWork13\\LabWork13\\Controllers\\VisitorsController.cs",
+              "RelativeToolTip": "LabWork13\\Controllers\\VisitorsController.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-30T08:12:24.193Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-06T09:30:57.959Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "VisitorService.cs",
+              "DocumentMoniker": "C:\\temp\\ISPP-31\\TRiZBD\\LabWorks\\LabWork13\\ApiServicesLibrary\\VisitorService.cs",
+              "RelativeDocumentMoniker": "ApiServicesLibrary\\VisitorService.cs",
+              "ToolTip": "C:\\temp\\ISPP-31\\TRiZBD\\LabWorks\\LabWork13\\ApiServicesLibrary\\VisitorService.cs",
+              "RelativeToolTip": "ApiServicesLibrary\\VisitorService.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAqwFAAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T06:45:46.287Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\temp\\ISPP-31\\TRiZBD\\LabWorks\\LabWork13\\LabWork13\\Program.cs",
-              "RelativeDocumentMoniker": "LabWork13\\Program.cs",
-              "ToolTip": "C:\\temp\\ISPP-31\\TRiZBD\\LabWorks\\LabWork13\\LabWork13\\Program.cs",
-              "RelativeToolTip": "LabWork13\\Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAeAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\temp\\ISPP-31\\TRiZBD\\LabWorks\\LabWork13\\LabConsoleApp\\Program.cs",
+              "RelativeDocumentMoniker": "LabConsoleApp\\Program.cs",
+              "ToolTip": "C:\\temp\\ISPP-31\\TRiZBD\\LabWorks\\LabWork13\\LabConsoleApp\\Program.cs",
+              "RelativeToolTip": "LabConsoleApp\\Program.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAQwDYAAABJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-30T07:17:39.222Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-05T05:13:42.667Z"
             }
           ]
         }

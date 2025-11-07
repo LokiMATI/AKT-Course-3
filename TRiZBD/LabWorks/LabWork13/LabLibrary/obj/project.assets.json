@@ -4717,9 +4717,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\temp\\ISPP-31\\TRiZBD\\LabWorks\\LabWork13\\LabLibrary\\LabLibrary.csproj",
-      "projectName": "LabLibrary",
-      "projectPath": "C:\\temp\\ISPP-31\\TRiZBD\\LabWorks\\LabWork13\\LabLibrary\\LabLibrary.csproj",
+      "projectUniqueName": "C:\\temp\\ISPP-31\\TRiZBD\\LabWorks\\LabWork13\\LabLibrary\\DatabaseLibrary.csproj",
+      "projectName": "DatabaseLibrary",
+      "projectPath": "C:\\temp\\ISPP-31\\TRiZBD\\LabWorks\\LabWork13\\LabLibrary\\DatabaseLibrary.csproj",
       "packagesPath": "C:\\Users\\0109-13\\.nuget\\packages\\",
       "outputPath": "C:\\temp\\ISPP-31\\TRiZBD\\LabWorks\\LabWork13\\LabLibrary\\obj\\",
       "projectStyle": "PackageReference",

@@ -3,20 +3,16 @@
   "WorkspaceRootPath": "C:\\temp\\ISPP-31\\TRiZBD\\Lections\\03.10.25\\Lection\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BCD70AE6-EAF4-4C3D-B752-61A33743F519}|Lection1107\\Lection1107.csproj|c:\\temp\\ispp-31\\trizbd\\lections\\03.10.25\\lection\\lection1107\\lection1107.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{BCD70AE6-EAF4-4C3D-B752-61A33743F519}|Lection1107\\Lection1107.csproj|solutionrelative:lection1107\\lection1107.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{BCD70AE6-EAF4-4C3D-B752-61A33743F519}|Lection1107\\Lection1107.csproj|c:\\temp\\ispp-31\\trizbd\\lections\\03.10.25\\lection\\lection1107\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BCD70AE6-EAF4-4C3D-B752-61A33743F519}|Lection1107\\Lection1107.csproj|solutionrelative:lection1107\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BCD70AE6-EAF4-4C3D-B752-61A33743F519}|Lection1107\\Lection1107.csproj|c:\\temp\\ispp-31\\trizbd\\lections\\03.10.25\\lection\\lection1107\\contexts\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BCD70AE6-EAF4-4C3D-B752-61A33743F519}|Lection1107\\Lection1107.csproj|solutionrelative:lection1107\\contexts\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{BCD70AE6-EAF4-4C3D-B752-61A33743F519}|Lection1107\\Lection1107.csproj|c:\\temp\\ispp-31\\trizbd\\lections\\03.10.25\\lection\\lection1107\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BCD70AE6-EAF4-4C3D-B752-61A33743F519}|Lection1107\\Lection1107.csproj|solutionrelative:lection1107\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCD70AE6-EAF4-4C3D-B752-61A33743F519}|Lection1107\\Lection1107.csproj|c:\\temp\\ispp-31\\trizbd\\lections\\03.10.25\\lection\\lection1107\\contexts\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCD70AE6-EAF4-4C3D-B752-61A33743F519}|Lection1107\\Lection1107.csproj|solutionrelative:lection1107\\contexts\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,24 +22,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Lection1107",
-              "DocumentMoniker": "C:\\temp\\ISPP-31\\TRiZBD\\Lections\\03.10.25\\Lection\\Lection1107\\Lection1107.csproj",
-              "RelativeDocumentMoniker": "Lection1107\\Lection1107.csproj",
-              "ToolTip": "C:\\temp\\ISPP-31\\TRiZBD\\Lections\\03.10.25\\Lection\\Lection1107\\Lection1107.csproj*",
-              "RelativeToolTip": "Lection1107\\Lection1107.csproj*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-11-07T06:05:17.568Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\temp\\ISPP-31\\TRiZBD\\Lections\\03.10.25\\Lection\\Lection1107\\Models\\User.cs",
               "RelativeDocumentMoniker": "Lection1107\\Models\\User.cs",
@@ -51,18 +38,17 @@
               "RelativeToolTip": "Lection1107\\Models\\User.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-07T05:42:19.59Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-07T05:42:19.59Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\temp\\ISPP-31\\TRiZBD\\Lections\\03.10.25\\Lection\\Lection1107\\Program.cs",
               "RelativeDocumentMoniker": "Lection1107\\Program.cs",
               "ToolTip": "C:\\temp\\ISPP-31\\TRiZBD\\Lections\\03.10.25\\Lection\\Lection1107\\Program.cs",
               "RelativeToolTip": "Lection1107\\Program.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAABwAAAAOAAAAAAAAAA==",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAABwAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-07T05:37:45.293Z",
               "EditorCaption": ""
@@ -77,8 +63,7 @@
               "RelativeToolTip": "Lection1107\\Contexts\\AppDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-07T05:39:26.832Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-07T05:39:26.832Z"
             }
           ]
         }

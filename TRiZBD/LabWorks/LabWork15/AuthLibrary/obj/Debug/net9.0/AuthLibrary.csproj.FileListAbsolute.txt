@@ -1,0 +1,15 @@
+C:\temp\ISPP-31\TRiZBD\LabWorks\LabWork15\AuthLibrary\bin\Debug\net9.0\AuthLibrary.deps.json
+C:\temp\ISPP-31\TRiZBD\LabWorks\LabWork15\AuthLibrary\bin\Debug\net9.0\AuthLibrary.runtimeconfig.json
+C:\temp\ISPP-31\TRiZBD\LabWorks\LabWork15\AuthLibrary\bin\Debug\net9.0\AuthLibrary.dll
+C:\temp\ISPP-31\TRiZBD\LabWorks\LabWork15\AuthLibrary\bin\Debug\net9.0\AuthLibrary.pdb
+C:\temp\ISPP-31\TRiZBD\LabWorks\LabWork15\AuthLibrary\obj\Debug\net9.0\AuthLibrary.csproj.AssemblyReference.cache
+C:\temp\ISPP-31\TRiZBD\LabWorks\LabWork15\AuthLibrary\obj\Debug\net9.0\AuthLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\ISPP-31\TRiZBD\LabWorks\LabWork15\AuthLibrary\obj\Debug\net9.0\AuthLibrary.AssemblyInfoInputs.cache
+C:\temp\ISPP-31\TRiZBD\LabWorks\LabWork15\AuthLibrary\obj\Debug\net9.0\AuthLibrary.AssemblyInfo.cs
+C:\temp\ISPP-31\TRiZBD\LabWorks\LabWork15\AuthLibrary\obj\Debug\net9.0\AuthLibrary.csproj.CoreCompileInputs.cache
+C:\temp\ISPP-31\TRiZBD\LabWorks\LabWork15\AuthLibrary\obj\Debug\net9.0\AuthLibrary.sourcelink.json
+C:\temp\ISPP-31\TRiZBD\LabWorks\LabWork15\AuthLibrary\obj\Debug\net9.0\AuthLibrary.dll
+C:\temp\ISPP-31\TRiZBD\LabWorks\LabWork15\AuthLibrary\obj\Debug\net9.0\refint\AuthLibrary.dll
+C:\temp\ISPP-31\TRiZBD\LabWorks\LabWork15\AuthLibrary\obj\Debug\net9.0\AuthLibrary.pdb
+C:\temp\ISPP-31\TRiZBD\LabWorks\LabWork15\AuthLibrary\obj\Debug\net9.0\AuthLibrary.genruntimeconfig.cache
+C:\temp\ISPP-31\TRiZBD\LabWorks\LabWork15\AuthLibrary\obj\Debug\net9.0\ref\AuthLibrary.dll

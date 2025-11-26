@@ -1,0 +1,15 @@
+C:\temp\ISPP-31\TRiZBD\LabWorks\LabWork24\TicketLibrary\bin\Debug\net9.0\TicketLibrary.deps.json
+C:\temp\ISPP-31\TRiZBD\LabWorks\LabWork24\TicketLibrary\bin\Debug\net9.0\TicketLibrary.runtimeconfig.json
+C:\temp\ISPP-31\TRiZBD\LabWorks\LabWork24\TicketLibrary\bin\Debug\net9.0\TicketLibrary.dll
+C:\temp\ISPP-31\TRiZBD\LabWorks\LabWork24\TicketLibrary\bin\Debug\net9.0\TicketLibrary.pdb
+C:\temp\ISPP-31\TRiZBD\LabWorks\LabWork24\TicketLibrary\obj\Debug\net9.0\TicketLibrary.csproj.AssemblyReference.cache
+C:\temp\ISPP-31\TRiZBD\LabWorks\LabWork24\TicketLibrary\obj\Debug\net9.0\TicketLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\ISPP-31\TRiZBD\LabWorks\LabWork24\TicketLibrary\obj\Debug\net9.0\TicketLibrary.AssemblyInfoInputs.cache
+C:\temp\ISPP-31\TRiZBD\LabWorks\LabWork24\TicketLibrary\obj\Debug\net9.0\TicketLibrary.AssemblyInfo.cs
+C:\temp\ISPP-31\TRiZBD\LabWorks\LabWork24\TicketLibrary\obj\Debug\net9.0\TicketLibrary.csproj.CoreCompileInputs.cache
+C:\temp\ISPP-31\TRiZBD\LabWorks\LabWork24\TicketLibrary\obj\Debug\net9.0\TicketLibrary.sourcelink.json
+C:\temp\ISPP-31\TRiZBD\LabWorks\LabWork24\TicketLibrary\obj\Debug\net9.0\TicketLibrary.dll
+C:\temp\ISPP-31\TRiZBD\LabWorks\LabWork24\TicketLibrary\obj\Debug\net9.0\refint\TicketLibrary.dll
+C:\temp\ISPP-31\TRiZBD\LabWorks\LabWork24\TicketLibrary\obj\Debug\net9.0\TicketLibrary.pdb
+C:\temp\ISPP-31\TRiZBD\LabWorks\LabWork24\TicketLibrary\obj\Debug\net9.0\TicketLibrary.genruntimeconfig.cache
+C:\temp\ISPP-31\TRiZBD\LabWorks\LabWork24\TicketLibrary\obj\Debug\net9.0\ref\TicketLibrary.dll

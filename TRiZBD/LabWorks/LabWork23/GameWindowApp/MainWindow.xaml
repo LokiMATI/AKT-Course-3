@@ -1,0 +1,19 @@
+﻿<Window x:Class="GameWindowApp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:GameWindowApp"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <StackPanel Background="AliceBlue">
+        <Label Content="Имя игры"/>
+        <TextBox Name="GameNameTextBox"/>
+        <Label Content="Выбрать файл логотипа игры"/>
+        <Label Name="LogoNameLabel"/>
+        <Button Name="SelectLogoButton" Content="Выбрать логотип" Click="SelectLogoButton_Click"/>
+        <Button Name="SaveButton" Content="Сохранить" Click="SaveButton_Click"/>
+        <Button Name="SaveScreenshotButton" Content="Сохранить скриншот" Click="SaveScreenshotButton_Click"/>
+        <Button Name="ImportUsersButton" Content="Импортировать пользователей" Click="ImportUsersButton_Click"/>
+    </StackPanel>
+</Window>

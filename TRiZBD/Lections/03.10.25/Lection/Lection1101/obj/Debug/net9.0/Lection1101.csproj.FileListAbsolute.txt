@@ -13,3 +13,18 @@ C:\temp\ISPP-31\TRiZBD\Lections\03.10.25\Lection\Lection1101\obj\Debug\net9.0\re
 C:\temp\ISPP-31\TRiZBD\Lections\03.10.25\Lection\Lection1101\obj\Debug\net9.0\Lection1101.pdb
 C:\temp\ISPP-31\TRiZBD\Lections\03.10.25\Lection\Lection1101\obj\Debug\net9.0\Lection1101.genruntimeconfig.cache
 C:\temp\ISPP-31\TRiZBD\Lections\03.10.25\Lection\Lection1101\obj\Debug\net9.0\ref\Lection1101.dll
+C:\temp\ISPP-31 clone\AKT-Course-3\TRiZBD\Lections\03.10.25\Lection\Lection1101\bin\Debug\net9.0\Lection1101.exe
+C:\temp\ISPP-31 clone\AKT-Course-3\TRiZBD\Lections\03.10.25\Lection\Lection1101\bin\Debug\net9.0\Lection1101.deps.json
+C:\temp\ISPP-31 clone\AKT-Course-3\TRiZBD\Lections\03.10.25\Lection\Lection1101\bin\Debug\net9.0\Lection1101.runtimeconfig.json
+C:\temp\ISPP-31 clone\AKT-Course-3\TRiZBD\Lections\03.10.25\Lection\Lection1101\bin\Debug\net9.0\Lection1101.dll
+C:\temp\ISPP-31 clone\AKT-Course-3\TRiZBD\Lections\03.10.25\Lection\Lection1101\bin\Debug\net9.0\Lection1101.pdb
+C:\temp\ISPP-31 clone\AKT-Course-3\TRiZBD\Lections\03.10.25\Lection\Lection1101\obj\Debug\net9.0\Lection1101.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\ISPP-31 clone\AKT-Course-3\TRiZBD\Lections\03.10.25\Lection\Lection1101\obj\Debug\net9.0\Lection1101.AssemblyInfoInputs.cache
+C:\temp\ISPP-31 clone\AKT-Course-3\TRiZBD\Lections\03.10.25\Lection\Lection1101\obj\Debug\net9.0\Lection1101.AssemblyInfo.cs
+C:\temp\ISPP-31 clone\AKT-Course-3\TRiZBD\Lections\03.10.25\Lection\Lection1101\obj\Debug\net9.0\Lection1101.csproj.CoreCompileInputs.cache
+C:\temp\ISPP-31 clone\AKT-Course-3\TRiZBD\Lections\03.10.25\Lection\Lection1101\obj\Debug\net9.0\Lection1101.sourcelink.json
+C:\temp\ISPP-31 clone\AKT-Course-3\TRiZBD\Lections\03.10.25\Lection\Lection1101\obj\Debug\net9.0\Lection1101.dll
+C:\temp\ISPP-31 clone\AKT-Course-3\TRiZBD\Lections\03.10.25\Lection\Lection1101\obj\Debug\net9.0\refint\Lection1101.dll
+C:\temp\ISPP-31 clone\AKT-Course-3\TRiZBD\Lections\03.10.25\Lection\Lection1101\obj\Debug\net9.0\Lection1101.pdb
+C:\temp\ISPP-31 clone\AKT-Course-3\TRiZBD\Lections\03.10.25\Lection\Lection1101\obj\Debug\net9.0\Lection1101.genruntimeconfig.cache
+C:\temp\ISPP-31 clone\AKT-Course-3\TRiZBD\Lections\03.10.25\Lection\Lection1101\obj\Debug\net9.0\ref\Lection1101.dll

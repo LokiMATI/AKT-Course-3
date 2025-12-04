@@ -1,0 +1,47 @@
+﻿@page
+@model WebApplication.Pages.Tickets.CreateModel
+
+        @{
+        ViewData["Title"] = "Create";
+        }
+        
+        <h1>Create</h1>
+        
+    <h4>Ticket</h4>
+    <hr />
+    <div class="row">
+    <div class="col-md-4">
+    <form method="post">
+    <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="Ticket.VisitorId" class="control-label"></label>
+                <select asp-for="Ticket.VisitorId" class ="form-control" asp-items="ViewBag.VisitorId"></select>
+            </div>
+            <div class="form-group">
+                <label asp-for="Ticket.SessionId" class="control-label"></label>
+                <select asp-for="Ticket.SessionId" class ="form-control" asp-items="ViewBag.SessionId"></select>
+            </div>
+            <div class="form-group">
+                <label asp-for="Ticket.Row" class="control-label"></label>
+                <input asp-for="Ticket.Row" class="form-control" />
+                <span asp-validation-for="Ticket.Row" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Ticket.Seat" class="control-label"></label>
+                <input asp-for="Ticket.Seat" class="form-control" />
+                <span asp-validation-for="Ticket.Seat" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-page="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

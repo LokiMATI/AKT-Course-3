@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\temp\\ISPP-31\\TRiZBD\\Lections\\03.10.25\\Lection\\Lection1101\\Lection1101.csproj",
+      "projectUniqueName": "C:\\temp\\ISPP-31 clone\\AKT-Course-3\\TRiZBD\\Lections\\03.10.25\\Lection\\Lection1101\\Lection1101.csproj",
       "projectName": "Lection1101",
-      "projectPath": "C:\\temp\\ISPP-31\\TRiZBD\\Lections\\03.10.25\\Lection\\Lection1101\\Lection1101.csproj",
+      "projectPath": "C:\\temp\\ISPP-31 clone\\AKT-Course-3\\TRiZBD\\Lections\\03.10.25\\Lection\\Lection1101\\Lection1101.csproj",
       "packagesPath": "C:\\Users\\0109-13\\.nuget\\packages\\",
-      "outputPath": "C:\\temp\\ISPP-31\\TRiZBD\\Lections\\03.10.25\\Lection\\Lection1101\\obj\\",
+      "outputPath": "C:\\temp\\ISPP-31 clone\\AKT-Course-3\\TRiZBD\\Lections\\03.10.25\\Lection\\Lection1101\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,0 +1,84 @@
+﻿@page
+@model WebApplication.Pages.Films.IndexModel
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-page="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Film[0].Title)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Film[0].Duration)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Film[0].Year)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Film[0].Description)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Film[0].Poster)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Film[0].AgeRating)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Film[0].RentalStart)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Film[0].RentalEnd)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Film[0].IsDeleted)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model.Film) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Title)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Duration)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Year)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Description)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Poster)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.AgeRating)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.RentalStart)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.RentalEnd)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.IsDeleted)
+            </td>
+            <td>
+                <a asp-page="./Edit" asp-route-id="@item.FilmId">Edit</a> |
+                <a asp-page="./Details" asp-route-id="@item.FilmId">Details</a> |
+                <a asp-page="./Delete" asp-route-id="@item.FilmId">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

@@ -1,0 +1,84 @@
+﻿@page
+@model WebApplication.Pages.Films.EditModel
+
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<h1>Edit</h1>
+
+<h4>Film</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form method="post">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="Film.FilmId" />
+            <div class="form-group">
+                
+                <label asp-for="Film.Title" class="control-label"></label>
+                <input asp-for="Film.Title" class="form-control" />
+                <span asp-validation-for="Film.Title" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                
+                <label asp-for="Film.Duration" class="control-label"></label>
+                <input asp-for="Film.Duration" class="form-control" />
+                <span asp-validation-for="Film.Duration" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                
+                <label asp-for="Film.Year" class="control-label"></label>
+                <input asp-for="Film.Year" class="form-control" />
+                <span asp-validation-for="Film.Year" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                
+                <label asp-for="Film.Description" class="control-label"></label>
+                <input asp-for="Film.Description" class="form-control" />
+                <span asp-validation-for="Film.Description" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                
+                <label asp-for="Film.Poster" class="control-label"></label>
+                <input asp-for="Film.Poster" class="form-control" />
+                <span asp-validation-for="Film.Poster" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                
+                <label asp-for="Film.AgeRating" class="control-label"></label>
+                <input asp-for="Film.AgeRating" class="form-control" />
+                <span asp-validation-for="Film.AgeRating" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                
+                <label asp-for="Film.RentalStart" class="control-label"></label>
+                <input asp-for="Film.RentalStart" class="form-control" />
+                <span asp-validation-for="Film.RentalStart" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                
+                <label asp-for="Film.RentalEnd" class="control-label"></label>
+                <input asp-for="Film.RentalEnd" class="form-control" />
+                <span asp-validation-for="Film.RentalEnd" class="text-danger"></span>
+            </div>
+            <div class="form-group form-check">
+                
+                <label class="form-check-label">
+                    <input class="form-check-input" asp-for="Film.IsDeleted" /> @Html.DisplayNameFor(model => model.Film.IsDeleted)
+                </label>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-page="./Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

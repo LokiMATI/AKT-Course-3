@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations;
 
 namespace WebApplication.Models;
 
@@ -17,5 +18,7 @@ public partial class Hall
 
     public bool IsVip { get; set; }
 
-    public virtual ICollection<Session> Sessions { get; set; } = new List<Session>();
+    public virtual ICollection<Session>? Sessions { get; set; } = new List<Session>();
+
+    public string? CinemaHall => $"Кинотеатр \"{Cinema}\" зал №{HallNumber}";
 }

@@ -17,5 +17,5 @@ public partial class CinemaUser
 
     public int RoleId { get; set; }
 
-    public virtual CinemaUserRole Role { get; set; } = null!;
+    public virtual CinemaUserRole? Role { get; set; } = null!;
 }

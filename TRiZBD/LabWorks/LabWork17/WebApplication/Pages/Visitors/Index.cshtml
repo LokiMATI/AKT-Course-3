@@ -1,0 +1,54 @@
+﻿@page
+@model WebApplication.Pages.Visitors.IndexModel
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Список</h1>
+
+<p>
+    <a asp-page="Create">Создать новый</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Visitor[0].Phone)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Visitor[0].Name)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Visitor[0].Birthday)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Visitor[0].Email)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model.Visitor) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Phone)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Name)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Birthday)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Email)
+            </td>
+            <td>
+                <a asp-page="./Edit" asp-route-id="@item.VisitorId">Изменить</a> |
+                <a asp-page="./Details" asp-route-id="@item.VisitorId">Детали</a> |
+                <a asp-page="./Delete" asp-route-id="@item.VisitorId">Удалить</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

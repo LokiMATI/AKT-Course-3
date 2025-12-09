@@ -68,6 +68,26 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/temp/ISPP-31 clone/AKT-Course-3/TRiZBD/LabWorks/LabWork17/WebApplication/Pages/Sessions/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2Vzc2lvbnNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/temp/ISPP-31 clone/AKT-Course-3/TRiZBD/LabWorks/LabWork17/WebApplication/Pages/Sessions/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2Vzc2lvbnNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/temp/ISPP-31 clone/AKT-Course-3/TRiZBD/LabWorks/LabWork17/WebApplication/Pages/Sessions/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2Vzc2lvbnNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/temp/ISPP-31 clone/AKT-Course-3/TRiZBD/LabWorks/LabWork17/WebApplication/Pages/Sessions/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2Vzc2lvbnNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/temp/ISPP-31 clone/AKT-Course-3/TRiZBD/LabWorks/LabWork17/WebApplication/Pages/Sessions/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2Vzc2lvbnNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/temp/ISPP-31 clone/AKT-Course-3/TRiZBD/LabWorks/LabWork17/WebApplication/Pages/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
@@ -90,6 +110,26 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/temp/ISPP-31 clone/AKT-Course-3/TRiZBD/LabWorks/LabWork17/WebApplication/Pages/Tickets/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVGlja2V0c1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/temp/ISPP-31 clone/AKT-Course-3/TRiZBD/LabWorks/LabWork17/WebApplication/Pages/Visitors/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVmlzaXRvcnNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/temp/ISPP-31 clone/AKT-Course-3/TRiZBD/LabWorks/LabWork17/WebApplication/Pages/Visitors/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVmlzaXRvcnNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/temp/ISPP-31 clone/AKT-Course-3/TRiZBD/LabWorks/LabWork17/WebApplication/Pages/Visitors/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVmlzaXRvcnNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/temp/ISPP-31 clone/AKT-Course-3/TRiZBD/LabWorks/LabWork17/WebApplication/Pages/Visitors/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVmlzaXRvcnNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/temp/ISPP-31 clone/AKT-Course-3/TRiZBD/LabWorks/LabWork17/WebApplication/Pages/Visitors/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVmlzaXRvcnNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/temp/ISPP-31 clone/AKT-Course-3/TRiZBD/LabWorks/LabWork17/WebApplication/Pages/_ViewImports.cshtml]

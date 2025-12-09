@@ -1,3 +1,4 @@
+using System.Globalization;
 using WebApplication.Contexts;
 
 var builder = Microsoft.AspNetCore.Builder.WebApplication.CreateBuilder(args);
@@ -8,6 +9,11 @@ builder.Services.AddDbContext<AppDbContext>();
 
 builder.Services.AddSession();
 builder.Services.AddHttpContextAccessor();
+
+CultureInfo.DefaultThreadCurrentCulture = new("ru-RU") 
+{ 
+    NumberFormat = { NumberDecimalSeparator = "." } 
+};
 
 var app = builder.Build();
 

@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations;
 
 namespace WebApplication.Models;
 
@@ -9,6 +10,7 @@ public partial class Film
 
     public string Title { get; set; } = null!;
 
+    [DataType(DataType.MultilineText)]
     public short Duration { get; set; }
 
     public short Year { get; set; }
@@ -25,7 +27,7 @@ public partial class Film
 
     public bool IsDeleted { get; set; }
 
-    public virtual ICollection<Session> Sessions { get; set; } = new List<Session>();
+    public virtual ICollection<Session>? Sessions { get; set; } = new List<Session>();
 
-    public virtual ICollection<Genre> Genres { get; set; } = new List<Genre>();
+    public virtual ICollection<Genre>? Genres { get; set; } = new List<Genre>();
 }

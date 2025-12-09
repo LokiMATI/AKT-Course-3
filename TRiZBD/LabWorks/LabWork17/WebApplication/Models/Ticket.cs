@@ -15,7 +15,7 @@ public partial class Ticket
 
     public byte Seat { get; set; }
 
-    public virtual Session Session { get; set; } = null!;
+    public virtual Session? Session { get; set; } = null!;
 
-    public virtual Visitor Visitor { get; set; } = null!;
+    public virtual Visitor? Visitor { get; set; } = null!;
 }

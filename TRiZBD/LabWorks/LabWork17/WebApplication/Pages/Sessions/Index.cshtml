@@ -10,6 +10,33 @@
 <p>
     <a asp-page="Create">Создать новый</a>
 </p>
+
+<form method="get">
+    <input type="text"
+           name="filmTitle"
+           value="@Model.FilmTitle"
+           placeholder="Поиск..."
+           onchange="this.form.submit()"
+           class="form-control" />
+
+    <select class="form-control"
+            name="sortColumn"
+            onchange="this.form.submit()">
+        <option value="price" selected="@(Model.SortColumn == "price")">
+            По цене (дешевые)
+        </option>
+        <option value="price_desc" selected="@(Model.SortColumn == "price_desc")">
+            По цене (дорогие)
+        </option>
+    </select>
+
+    <select class="form-control" asp-items="ViewBag.Halls"
+            asp-for="Hall"
+            name="hall"
+            onchange="this.form.submit()">
+    </select>
+</form>
+
 <table class="table">
     <thead>
         <tr>

@@ -3,20 +3,28 @@
   "WorkspaceRootPath": "C:\\temp\\ISPP-31 clone\\AKT-Course-3\\TRiZBD\\Lections\\03.10.25\\Lection\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{34D6D06D-2B0C-418C-B666-DEAA510DFB20}|Lection1202\\Lection1202.csproj|c:\\temp\\ispp-31 clone\\akt-course-3\\trizbd\\lections\\03.10.25\\lection\\lection1202\\pages\\accesspage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{34D6D06D-2B0C-418C-B666-DEAA510DFB20}|Lection1202\\Lection1202.csproj|solutionrelative:lection1202\\pages\\accesspage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{34D6D06D-2B0C-418C-B666-DEAA510DFB20}|Lection1202\\Lection1202.csproj|c:\\temp\\ispp-31 clone\\akt-course-3\\trizbd\\lections\\03.10.25\\lection\\lection1202\\pages\\accesspage.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34D6D06D-2B0C-418C-B666-DEAA510DFB20}|Lection1202\\Lection1202.csproj|solutionrelative:lection1202\\pages\\accesspage.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{34D6D06D-2B0C-418C-B666-DEAA510DFB20}|Lection1202\\Lection1202.csproj|c:\\temp\\ispp-31 clone\\akt-course-3\\trizbd\\lections\\03.10.25\\lection\\lection1202\\pages\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{34D6D06D-2B0C-418C-B666-DEAA510DFB20}|Lection1202\\Lection1202.csproj|solutionrelative:lection1202\\pages\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{34D6D06D-2B0C-418C-B666-DEAA510DFB20}|Lection1202\\Lection1202.csproj|c:\\temp\\ispp-31 clone\\akt-course-3\\trizbd\\lections\\03.10.25\\lection\\lection1202\\pages\\categories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{34D6D06D-2B0C-418C-B666-DEAA510DFB20}|Lection1202\\Lection1202.csproj|solutionrelative:lection1202\\pages\\categories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{34D6D06D-2B0C-418C-B666-DEAA510DFB20}|Lection1202\\Lection1202.csproj|c:\\temp\\ispp-31 clone\\akt-course-3\\trizbd\\lections\\03.10.25\\lection\\lection1202\\pages\\categories\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{34D6D06D-2B0C-418C-B666-DEAA510DFB20}|Lection1202\\Lection1202.csproj|solutionrelative:lection1202\\pages\\categories\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{34D6D06D-2B0C-418C-B666-DEAA510DFB20}|Lection1202\\Lection1202.csproj|c:\\temp\\ispp-31 clone\\akt-course-3\\trizbd\\lections\\03.10.25\\lection\\lection1202\\pages\\categories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{34D6D06D-2B0C-418C-B666-DEAA510DFB20}|Lection1202\\Lection1202.csproj|solutionrelative:lection1202\\pages\\categories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{34D6D06D-2B0C-418C-B666-DEAA510DFB20}|Lection1202\\Lection1202.csproj|c:\\temp\\ispp-31 clone\\akt-course-3\\trizbd\\lections\\03.10.25\\lection\\lection1202\\pages\\games\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34D6D06D-2B0C-418C-B666-DEAA510DFB20}|Lection1202\\Lection1202.csproj|solutionrelative:lection1202\\pages\\games\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34D6D06D-2B0C-418C-B666-DEAA510DFB20}|Lection1202\\Lection1202.csproj|c:\\temp\\ispp-31 clone\\akt-course-3\\trizbd\\lections\\03.10.25\\lection\\lection1202\\pages\\accesspage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{34D6D06D-2B0C-418C-B666-DEAA510DFB20}|Lection1202\\Lection1202.csproj|solutionrelative:lection1202\\pages\\accesspage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34D6D06D-2B0C-418C-B666-DEAA510DFB20}|Lection1202\\Lection1202.csproj|c:\\temp\\ispp-31 clone\\akt-course-3\\trizbd\\lections\\03.10.25\\lection\\lection1202\\pages\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{34D6D06D-2B0C-418C-B666-DEAA510DFB20}|Lection1202\\Lection1202.csproj|solutionrelative:lection1202\\pages\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{34D6D06D-2B0C-418C-B666-DEAA510DFB20}|Lection1202\\Lection1202.csproj|c:\\temp\\ispp-31 clone\\akt-course-3\\trizbd\\lections\\03.10.25\\lection\\lection1202\\pages\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -33,10 +41,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{34D6D06D-2B0C-418C-B666-DEAA510DFB20}|Lection1202\\Lection1202.csproj|c:\\temp\\ispp-31 clone\\akt-course-3\\trizbd\\lections\\03.10.25\\lection\\lection1202\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{34D6D06D-2B0C-418C-B666-DEAA510DFB20}|Lection1202\\Lection1202.csproj|solutionrelative:lection1202\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{34D6D06D-2B0C-418C-B666-DEAA510DFB20}|Lection1202\\Lection1202.csproj|c:\\temp\\ispp-31 clone\\akt-course-3\\trizbd\\lections\\03.10.25\\lection\\lection1202\\pages\\games\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{34D6D06D-2B0C-418C-B666-DEAA510DFB20}|Lection1202\\Lection1202.csproj|solutionrelative:lection1202\\pages\\games\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -55,12 +59,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "AccessPage.cshtml.cs",
+              "DocumentMoniker": "C:\\temp\\ISPP-31 clone\\AKT-Course-3\\TRiZBD\\Lections\\03.10.25\\Lection\\Lection1202\\Pages\\AccessPage.cshtml.cs",
+              "RelativeDocumentMoniker": "Lection1202\\Pages\\AccessPage.cshtml.cs",
+              "ToolTip": "C:\\temp\\ISPP-31 clone\\AKT-Course-3\\TRiZBD\\Lections\\03.10.25\\Lection\\Lection1202\\Pages\\AccessPage.cshtml.cs",
+              "RelativeToolTip": "Lection1202\\Pages\\AccessPage.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T08:48:52.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "AccessPage.cshtml",
               "DocumentMoniker": "C:\\temp\\ISPP-31 clone\\AKT-Course-3\\TRiZBD\\Lections\\03.10.25\\Lection\\Lection1202\\Pages\\AccessPage.cshtml",
               "RelativeDocumentMoniker": "Lection1202\\Pages\\AccessPage.cshtml",
               "ToolTip": "C:\\temp\\ISPP-31 clone\\AKT-Course-3\\TRiZBD\\Lections\\03.10.25\\Lection\\Lection1202\\Pages\\AccessPage.cshtml",
               "RelativeToolTip": "Lection1202\\Pages\\AccessPage.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-12-04T08:48:36.842Z",
               "EditorCaption": ""
@@ -73,27 +90,27 @@
               "RelativeDocumentMoniker": "Lection1202\\Pages\\Categories\\Index.cshtml.cs",
               "ToolTip": "C:\\temp\\ISPP-31 clone\\AKT-Course-3\\TRiZBD\\Lections\\03.10.25\\Lection\\Lection1202\\Pages\\Categories\\Index.cshtml.cs",
               "RelativeToolTip": "Lection1202\\Pages\\Categories\\Index.cshtml.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAcwBcAAAAoAAAAAAAAAA==",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAcwBoAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-04T08:41:28.863Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\temp\\ISPP-31 clone\\AKT-Course-3\\TRiZBD\\Lections\\03.10.25\\Lection\\Lection1202\\Pages\\Categories\\Index.cshtml",
               "RelativeDocumentMoniker": "Lection1202\\Pages\\Categories\\Index.cshtml",
               "ToolTip": "C:\\temp\\ISPP-31 clone\\AKT-Course-3\\TRiZBD\\Lections\\03.10.25\\Lection\\Lection1202\\Pages\\Categories\\Index.cshtml",
               "RelativeToolTip": "Lection1202\\Pages\\Categories\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-12-04T08:41:24.589Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 3,
               "Title": "Index.cshtml.cs",
               "DocumentMoniker": "C:\\temp\\ISPP-31 clone\\AKT-Course-3\\TRiZBD\\Lections\\03.10.25\\Lection\\Lection1202\\Pages\\Games\\Index.cshtml.cs",
               "RelativeDocumentMoniker": "Lection1202\\Pages\\Games\\Index.cshtml.cs",
@@ -106,7 +123,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\temp\\ISPP-31 clone\\AKT-Course-3\\TRiZBD\\Lections\\03.10.25\\Lection\\Lection1202\\Pages\\Games\\Index.cshtml",
               "RelativeDocumentMoniker": "Lection1202\\Pages\\Games\\Index.cshtml",
@@ -119,7 +136,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "Login.cshtml.cs",
               "DocumentMoniker": "C:\\temp\\ISPP-31 clone\\AKT-Course-3\\TRiZBD\\Lections\\03.10.25\\Lection\\Lection1202\\Pages\\Login.cshtml.cs",
               "RelativeDocumentMoniker": "Lection1202\\Pages\\Login.cshtml.cs",
@@ -132,7 +149,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "Login.cshtml",
               "DocumentMoniker": "C:\\temp\\ISPP-31 clone\\AKT-Course-3\\TRiZBD\\Lections\\03.10.25\\Lection\\Lection1202\\Pages\\Login.cshtml",
               "RelativeDocumentMoniker": "Lection1202\\Pages\\Login.cshtml",
@@ -145,7 +162,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\temp\\ISPP-31 clone\\AKT-Course-3\\TRiZBD\\Lections\\03.10.25\\Lection\\Lection1202\\Pages\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Lection1202\\Pages\\Shared\\_Layout.cshtml",
@@ -158,7 +175,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\temp\\ISPP-31 clone\\AKT-Course-3\\TRiZBD\\Lections\\03.10.25\\Lection\\Lection1202\\Program.cs",
               "RelativeDocumentMoniker": "Lection1202\\Program.cs",

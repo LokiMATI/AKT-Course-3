@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "rKfuXwkH8is=",
+  "dgSpecHash": "4wudqlx1LeM=",
   "success": true,
-  "projectFilePath": "C:\\temp\\ISPP-31 clone\\AKT-Course-3\\TRiZBD\\Lections\\03.10.25\\Lection\\Lection1107\\Lection1107.csproj",
+  "projectFilePath": "C:\\temp\\ISPP-31\\AKT-Course-3\\TRiZBD\\Lections\\03.10.25\\Lection\\Lection1107\\Lection1107.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\0109-13\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\0109-13\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\7.0.0\\microsoft.bcl.asyncinterfaces.7.0.0.nupkg.sha512",
